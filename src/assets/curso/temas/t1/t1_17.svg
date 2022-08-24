@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="363.074" height="249.084" viewBox="0 0 363.074 249.084">
+  <defs>
+    <filter id="Rectángulo_296454" x="0" y="0" width="329.677" height="230.348" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_296455" x="32.209" y="32.43" width="330.865" height="216.654" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_296457" data-name="Rectángulo 296457" width="283.694" height="138.17" fill="none" stroke="#707070" stroke-width="2"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_889545" data-name="Grupo 889545" transform="translate(8848.08 7310.936)">
+    <g transform="matrix(1, 0, 0, 1, -8848.08, -7310.94)" filter="url(#Rectángulo_296454)">
+      <rect id="Rectángulo_296454-2" data-name="Rectángulo 296454" width="311.676" height="212.348" transform="translate(9 6)" fill="#f6f6f6"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -8848.08, -7310.94)" filter="url(#Rectángulo_296455)">
+      <g id="Rectángulo_296455-2" data-name="Rectángulo 296455" transform="translate(41.21 38.43)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="312.866" height="198.654" stroke="none"/>
+        <rect x="0.5" y="0.5" width="311.866" height="197.654" fill="none"/>
+      </g>
+    </g>
+    <g id="Grupo_882783" data-name="Grupo 882783" transform="translate(-8790.818 -7237.507)">
+      <g id="Grupo_882778" data-name="Grupo 882778">
+        <g id="Grupo_882777" data-name="Grupo 882777" clip-path="url(#clip-path)">
+          <rect id="Rectángulo_296456" data-name="Rectángulo 296456" width="89.806" height="137.841" transform="translate(0.165 0.165)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="2"/>
+        </g>
+      </g>
+      <rect id="Rectángulo_296458" data-name="Rectángulo 296458" width="78.276" height="16.217" transform="translate(5.683 7.649)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="2"/>
+      <rect id="Rectángulo_296459" data-name="Rectángulo 296459" width="17.02" height="48.22" transform="translate(5.683 28.232)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="2"/>
+      <rect id="Rectángulo_296460" data-name="Rectángulo 296460" width="17.02" height="48.22" transform="translate(26.889 28.232)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="2"/>
+      <rect id="Rectángulo_296461" data-name="Rectángulo 296461" width="32.922" height="48.22" transform="translate(50.798 28.232)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="2"/>
+      <rect id="Rectángulo_296462" data-name="Rectángulo 296462" width="17.02" height="48.22" transform="translate(45.393 81.247)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="2"/>
+      <rect id="Rectángulo_296463" data-name="Rectángulo 296463" width="17.02" height="48.22" transform="translate(66.599 81.247)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="2"/>
+      <rect id="Rectángulo_296464" data-name="Rectángulo 296464" width="32.922" height="48.22" transform="translate(5.891 81.247)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="2"/>
+      <g id="Grupo_882780" data-name="Grupo 882780">
+        <g id="Grupo_882779" data-name="Grupo 882779" clip-path="url(#clip-path)">
+          <rect id="Rectángulo_296465" data-name="Rectángulo 296465" width="89.806" height="137.841" transform="translate(97.048 0.165)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="2"/>
+        </g>
+      </g>
+      <rect id="Rectángulo_296467" data-name="Rectángulo 296467" width="78.276" height="16.217" transform="translate(102.566 7.649)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="2"/>
+      <rect id="Rectángulo_296468" data-name="Rectángulo 296468" width="17.02" height="48.22" transform="translate(102.566 28.232)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="2"/>
+      <rect id="Rectángulo_296469" data-name="Rectángulo 296469" width="17.02" height="21.568" transform="translate(123.773 28.232)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="2"/>
+      <rect id="Rectángulo_296470" data-name="Rectángulo 296470" width="17.02" height="22.794" transform="translate(123.773 53.661)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="2"/>
+      <rect id="Rectángulo_296471" data-name="Rectángulo 296471" width="32.922" height="11.899" transform="translate(147.682 28.232)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="2"/>
+      <rect id="Rectángulo_296472" data-name="Rectángulo 296472" width="32.922" height="11.899" transform="translate(147.682 45.072)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="2"/>
+      <rect id="Rectángulo_296473" data-name="Rectángulo 296473" width="32.922" height="11.899" transform="translate(147.682 64.407)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="2"/>
+      <rect id="Rectángulo_296474" data-name="Rectángulo 296474" width="11.606" height="48.22" transform="translate(147.69 81.247)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="2"/>
+      <rect id="Rectángulo_296475" data-name="Rectángulo 296475" width="17.02" height="48.22" transform="translate(163.482 81.247)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="2"/>
+      <rect id="Rectángulo_296476" data-name="Rectángulo 296476" width="17.02" height="48.22" transform="translate(102.67 81.247)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="2"/>
+      <rect id="Rectángulo_296477" data-name="Rectángulo 296477" width="17.02" height="48.22" transform="translate(123.876 81.247)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="2"/>
+      <g id="Grupo_882782" data-name="Grupo 882782">
+        <g id="Grupo_882781" data-name="Grupo 882781" clip-path="url(#clip-path)">
+          <rect id="Rectángulo_296478" data-name="Rectángulo 296478" width="89.806" height="137.841" transform="translate(193.723 0.165)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="2"/>
+        </g>
+      </g>
+      <rect id="Rectángulo_296480" data-name="Rectángulo 296480" width="78.276" height="16.217" transform="translate(199.242 7.649)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="2"/>
+      <rect id="Rectángulo_296481" data-name="Rectángulo 296481" width="12.266" height="11.899" transform="translate(244.357 81.524)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="2"/>
+      <rect id="Rectángulo_296482" data-name="Rectángulo 296482" width="12.266" height="11.899" transform="translate(244.357 98.365)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="2"/>
+      <rect id="Rectángulo_296483" data-name="Rectángulo 296483" width="12.266" height="11.899" transform="translate(244.357 117.648)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="2"/>
+      <rect id="Rectángulo_296484" data-name="Rectángulo 296484" width="32.922" height="48.703" transform="translate(244.357 27.603)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="2"/>
+      <rect id="Rectángulo_296485" data-name="Rectángulo 296485" width="17.02" height="48.22" transform="translate(260.158 81.247)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="2"/>
+      <rect id="Rectángulo_296486" data-name="Rectángulo 296486" width="17.02" height="101.236" transform="translate(199.346 28.232)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="2"/>
+      <rect id="Rectángulo_296487" data-name="Rectángulo 296487" width="17.02" height="101.236" transform="translate(220.552 28.232)" fill="none" stroke="#12263f" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

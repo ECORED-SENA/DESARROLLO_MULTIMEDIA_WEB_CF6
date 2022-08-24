@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="363.074" height="200.084" viewBox="0 0 363.074 200.084">
+  <defs>
+    <filter id="Rectángulo_296395" x="0" y="0" width="329.677" height="169.096" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_296396" x="32.209" y="32.43" width="330.865" height="167.654" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_296404" data-name="Rectángulo 296404" width="190.802" height="115.451" fill="#12263f"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_889538" data-name="Grupo 889538" transform="translate(8848.08 9424.633)">
+    <g transform="matrix(1, 0, 0, 1, -8848.08, -9424.63)" filter="url(#Rectángulo_296395)">
+      <rect id="Rectángulo_296395-2" data-name="Rectángulo 296395" width="311.676" height="151.096" transform="translate(9 6)" fill="#f6f6f6"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -8848.08, -9424.63)" filter="url(#Rectángulo_296396)">
+      <g id="Rectángulo_296396-2" data-name="Rectángulo 296396" transform="translate(41.21 38.43)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="312.866" height="149.654" stroke="none"/>
+        <rect x="0.5" y="0.5" width="311.866" height="148.654" fill="none"/>
+      </g>
+    </g>
+    <g id="Grupo_882757" data-name="Grupo 882757" transform="translate(-8745.84 -9367.184)">
+      <rect id="Rectángulo_296403" data-name="Rectángulo 296403" width="49.581" height="49.349" transform="translate(138.3 65.949)" fill="#12263f"/>
+      <g id="Grupo_882756" data-name="Grupo 882756">
+        <g id="Grupo_882755" data-name="Grupo 882755" clip-path="url(#clip-path)">
+          <path id="Trazado_599767" data-name="Trazado 599767" d="M28.335,206.981c4.344,0,8.688.027,13.031-.021a1.977,1.977,0,0,1,2,1.14q6.458,11.29,13.018,22.521a1.959,1.959,0,0,1,0,2.287q-6.56,11.23-13.018,22.52a1.988,1.988,0,0,1-2,1.14q-13.11-.053-26.222,0a1.858,1.858,0,0,1-1.875-1.055C8.937,247.937,4.539,240.4.233,232.816a2.515,2.515,0,0,1,0-2.107c4.306-7.587,8.7-15.122,13.036-22.693a1.855,1.855,0,0,1,1.879-1.053c4.4.04,8.793.018,13.19.018" transform="translate(0 -141.115)" fill="#12263f"/>
+          <path id="Trazado_599768" data-name="Trazado 599768" d="M247.513.118A24.775,24.775,0,0,1,272.254,25.5c-.09,13.456-11.468,24.4-25.225,24.261A24.824,24.824,0,0,1,247.513.118" transform="translate(-151.696 -0.08)" fill="#12263f"/>
+          <path id="Trazado_599769" data-name="Trazado 599769" d="M46.313,25.215,60.68,39.545,50.226,49.981,36.057,35.775,21.736,50.125,11.216,39.59l14.338-14.2L11.163,11.043,21.567.725,35.777,14.953,50.064.642,60.509,11.067l-14.2,14.148" transform="translate(-7.611 -0.438)" fill="#12263f"/>
+          <path id="Trazado_599770" data-name="Trazado 599770" d="M453.266,0l27.706,49.546H425.564L453.266,0" transform="translate(-290.17)" fill="#12263f"/>
+          <path id="Trazado_599771" data-name="Trazado 599771" d="M225.488,241.9c.909-5.3,1.606-10.369,2.7-15.352a5.991,5.991,0,0,0-1.971-6.454c-3.762-3.547-7.127-7.515-10.5-11.135,1.579-.24,3.837-.594,6.1-.924,3.768-.55,7.546-1.039,11.3-1.673a2.563,2.563,0,0,0,1.528-1.288c2.7-5.319,5.334-10.676,8.082-16.217.312.535.559.907.756,1.3,2.442,4.921,4.894,9.837,7.3,14.777a2.406,2.406,0,0,0,2.1,1.554c5.852.775,11.688,1.682,17.9,2.6-2.046,2.009-3.868,3.811-5.7,5.6-2.464,2.4-4.977,4.748-7.377,7.208a2.71,2.71,0,0,0-.652,2.026c.914,5.737,1.934,11.457,2.917,17.183a5.893,5.893,0,0,1,0,.8c-4.265-2.236-8.574-4.168-12.523-6.668-3.3-2.086-6-2.172-9.3-.023-3.483,2.269-7.345,3.957-11.044,5.9-.453.238-.919.451-1.619.792" transform="translate(-147.089 -128.769)" fill="#12263f"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

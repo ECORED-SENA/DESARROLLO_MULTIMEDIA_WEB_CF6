@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="308.125" height="255.266" viewBox="0 0 308.125 255.266">
+  <defs>
+    <filter id="Rectángulo_296380" x="0" y="0" width="280.044" height="239.514" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_296381" x="27.08" y="27.266" width="281.044" height="228" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_889530" data-name="Grupo 889530" transform="translate(5894.08 10335.301)">
+    <g transform="matrix(1, 0, 0, 1, -5894.08, -10335.3)" filter="url(#Rectángulo_296380)">
+      <rect id="Rectángulo_296380-2" data-name="Rectángulo 296380" width="262.044" height="221.513" transform="translate(9 6)" fill="#f6f6f6"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -5894.08, -10335.3)" filter="url(#Rectángulo_296381)">
+      <g id="Rectángulo_296381-2" data-name="Rectángulo 296381" transform="translate(36.08 33.27)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="263.044" height="210" stroke="none"/>
+        <rect x="0.5" y="0.5" width="262.044" height="209" fill="none"/>
+      </g>
+    </g>
+    <circle id="Elipse_8013" data-name="Elipse 8013" cx="18.5" cy="18.5" r="18.5" transform="translate(-5840 -10289)" fill="#12263f"/>
+    <circle id="Elipse_8014" data-name="Elipse 8014" cx="18.5" cy="18.5" r="18.5" transform="translate(-5840 -10241)" fill="#26aab7"/>
+    <circle id="Elipse_8015" data-name="Elipse 8015" cx="18.5" cy="18.5" r="18.5" transform="translate(-5840 -10193)" fill="#12263f"/>
+    <circle id="Elipse_8016" data-name="Elipse 8016" cx="18.5" cy="18.5" r="18.5" transform="translate(-5840 -10145)" fill="#26aab7"/>
+    <circle id="Elipse_8017" data-name="Elipse 8017" cx="18.5" cy="18.5" r="18.5" transform="translate(-5745 -10289)" fill="#1565c0"/>
+    <circle id="Elipse_8018" data-name="Elipse 8018" cx="18.5" cy="18.5" r="18.5" transform="translate(-5745 -10241)" fill="#26aab7"/>
+    <circle id="Elipse_8019" data-name="Elipse 8019" cx="18.5" cy="18.5" r="18.5" transform="translate(-5745 -10193)" fill="#1565c0"/>
+    <circle id="Elipse_8020" data-name="Elipse 8020" cx="18.5" cy="18.5" r="18.5" transform="translate(-5745 -10145)" fill="#26aab7"/>
+    <ellipse id="Elipse_8021" data-name="Elipse 8021" cx="18" cy="18.5" rx="18" ry="18.5" transform="translate(-5792 -10289)" fill="#1565c0"/>
+    <ellipse id="Elipse_8022" data-name="Elipse 8022" cx="18" cy="18.5" rx="18" ry="18.5" transform="translate(-5792 -10241)" fill="#26aab7"/>
+    <ellipse id="Elipse_8023" data-name="Elipse 8023" cx="18" cy="18.5" rx="18" ry="18.5" transform="translate(-5792 -10193)" fill="#1565c0"/>
+    <ellipse id="Elipse_8024" data-name="Elipse 8024" cx="18" cy="18.5" rx="18" ry="18.5" transform="translate(-5792 -10145)" fill="#26aab7"/>
+    <ellipse id="Elipse_8025" data-name="Elipse 8025" cx="18" cy="18.5" rx="18" ry="18.5" transform="translate(-5697 -10289)" fill="#1565c0"/>
+    <ellipse id="Elipse_8026" data-name="Elipse 8026" cx="18" cy="18.5" rx="18" ry="18.5" transform="translate(-5697 -10241)" fill="#26aab7"/>
+    <ellipse id="Elipse_8027" data-name="Elipse 8027" cx="18" cy="18.5" rx="18" ry="18.5" transform="translate(-5697 -10145)" fill="#26aab7"/>
+    <circle id="Elipse_8028" data-name="Elipse 8028" cx="18.5" cy="18.5" r="18.5" transform="translate(-5650 -10289)" fill="#1565c0"/>
+    <circle id="Elipse_8029" data-name="Elipse 8029" cx="18.5" cy="18.5" r="18.5" transform="translate(-5650 -10241)" fill="#12263f"/>
+    <circle id="Elipse_8030" data-name="Elipse 8030" cx="18.5" cy="18.5" r="18.5" transform="translate(-5650 -10193)" fill="#1565c0"/>
+    <circle id="Elipse_8032" data-name="Elipse 8032" cx="18.5" cy="18.5" r="18.5" transform="translate(-5697 -10193)" fill="#1565c0"/>
+    <circle id="Elipse_8031" data-name="Elipse 8031" cx="18.5" cy="18.5" r="18.5" transform="translate(-5650 -10145)" fill="#12263f"/>
+  </g>
+</svg>
