@@ -20,6 +20,21 @@
           .col
             p.mb-0 #[strong Según Madrid (2018) la Asociación Profesional de Experiencia de Usuario -UXPA- determinó que las actividades a realizar para lograr un buen diseño de UX son:]
 
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-7
+        .slyderBg_02.pt-5.p-4(data-aos="fade") 
+          SlyderA(tipo="b")
+            .row.justify-content-around.cardNumber(data-cardNumber="01")
+              .col-lg-8.mb-2.mb-lg-0                                
+                p Investigar previamente al cliente y a los usuarios para conocer más acerca de ellos, sus necesidades, objetivos y expectativas respecto del producto que se va a implementar. Para ello es importante utilizar las técnicas de recolección de información vistas anteriormente.      
+              .col-auto
+                figure
+                  img(src='@/assets/curso/temas/t6/t6_28.svg', alt='').img150.m-auto
+
+      .col-lg-5.d-none.d-lg-flex
+        figure
+          img(src="@/assets/curso/temas/t6/t6_01A.svg", alt="alt")
+
     .cajon.cjn--paleBlue.p-4.mb-5(data-aos="zoom-in")
       p.mb-0 Las anteriores actividades se pueden resumir en un enfoque metodológico para determinar las etapas que se llevan a cabo para diseñar la UX; como se muestra en la siguiente figura:
 

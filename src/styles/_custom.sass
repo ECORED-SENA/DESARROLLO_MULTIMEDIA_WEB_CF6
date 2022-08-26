@@ -49,9 +49,6 @@
 
   100%
     transform: scale(1)
-    
-
-
 
 .img30
   width: 30px
@@ -65,6 +62,8 @@
   width: 120px
 .img150
   width: 150px
+.img200
+  width: 200px
 
 
 // Utilidades color texto ---------------------------------------
@@ -107,16 +106,21 @@
     background-color: #CBDEF4
 
 // Tarjetas ---------------------------------------
-.acordion   
-  .tarjeta--gris
-    background-color: #EBEBEB !important
-
-.linea-tiempo-d__item__number 
-  color: $color-sistema-texto !important
-  font-weight: 700
-
 .hg-100
   height: 100% !important
+
+.cardNumber  
+  position: relative
+  & > *
+    position: relative
+  &::before
+    content: attr(data-cardNumber)
+    position: absolute
+    bottom: -30%
+    left: 5%
+    font-size: 110pt
+    color: #E2E5E8
+    font-weight: 800
 
 .bg--paleBlue
   background-color: #F3F9FF
@@ -124,9 +128,49 @@
   background-color: #FFFAE7
 .bg--paleGray
   background-color: #E8E8E8
+.bg--gray
+  background-color: #F6F6F6
 
 .brad_01
   border-radius: 7px
+.brad_02
+  border-radius: 15px
+
+.shadow
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)
+
+.acordion   
+  .tarjeta--gris
+    background-color: #EBEBEB !important
+
+.cstmTitleCrd
+  position: relative
+  top: -55%
+  padding: 1.5rem
+  border-radius: 15px
+  background: linear-gradient(0deg, rgba(167,179,207,1) 0%, rgba(245,245,245,1) 100%)
+  @media (max-width: 1000px)
+    top: 0%
+
+.numerCard
+  position: relative
+  background-color:#F6F6F6
+  border-bottom-left-radius: 45px
+  border-top-right-radius: 45px
+  & > *
+    position: relative
+  &::before
+    content: attr(data-number)
+    position: absolute
+    bottom: 0
+    right: 0
+    font-size: 110pt
+    color: #E2E5E8
+    font-weight: 800
+
+.linea-tiempo-d__item__number 
+  color: $color-sistema-texto !important
+  font-weight: 700
 
 .crd
   position: relative
@@ -156,6 +200,15 @@
   position: relative
   width: 100% 
   background-image: url("../assets/curso/temas/recursos/slyderBg_01.svg") 
+  background-size: cover
+  background-position: left top
+  background-repeat: no-repeat
+  border-radius: 15px
+
+.slyderBg_02
+  position: relative
+  width: 100% 
+  background-image: url("../assets/curso/temas/recursos/slyderBg_02.svg") 
   background-size: cover
   background-position: left top
   background-repeat: no-repeat
@@ -265,7 +318,6 @@
 .tarjeta-flip__contenido, .tarjeta-flip__img
   box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23)
   background-color: white
-
 
 .banner-interno__titulo__icono i
   color: $color-sistema-texto !important
