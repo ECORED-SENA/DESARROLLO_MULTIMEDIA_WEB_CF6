@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-botones
       .titulo-principal__numero
         span 6
-      h1 Experiencia de Usuario (UX) 
+      h1 Experiencia de usuario (UX) 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3.col-8.mb-4.mb-lg-0(data-aos="zoom-in")
@@ -31,6 +31,41 @@
                 figure
                   img(src='@/assets/curso/temas/t6/t6_28.svg', alt='').img150.m-auto
 
+            .row.justify-content-around.cardNumber(data-cardNumber="02")
+              .col-lg-8.mb-2.mb-lg-0                                
+                p Realizar el benchmarking del producto a desarrollar; el cual consiste en compararlo con la competencia para determinar en qué aspectos se puede diferenciar de esta y así poder optimizarlo proporcionándole el valor agregado para los usuarios.      
+              .col-auto
+                figure
+                  img(src='@/assets/curso/temas/t6/t6_29.svg', alt='').img150.m-auto
+
+            .row.justify-content-around.cardNumber(data-cardNumber="03")
+              .col-lg-8.mb-2.mb-lg-0                                
+                p Comprender cuál es el contexto de uso que le proporcionaran los usuarios al producto y así poder definir el alcance y objetivos que tendrá, los requisitos de diseño y desarrollo necesario para su implementación.      
+              .col-auto
+                figure
+                  img(src='@/assets/curso/temas/t6/t6_30.svg', alt='').img150.m-auto
+
+            .row.justify-content-around.cardNumber(data-cardNumber="04")
+              .col-lg-8.mb-2.mb-lg-0                                
+                p Realizar el diseño conceptual del producto multimedia, partiendo de las actividades anteriores para establecer correctamente la estructura y funcionalidades que ofrecerá y el valor que aportará en cuanto su uso y accesibilidad.      
+              .col-auto
+                figure
+                  img(src='@/assets/curso/temas/t6/t6_31.svg', alt='').img150.m-auto
+
+            .row.justify-content-around.cardNumber(data-cardNumber="05")
+              .col-lg-8.mb-2.mb-lg-0                                
+                p Realizar el diseño de la interfaz del producto para determinar cómo lo vería el usuario cuando esté terminado. Para ello se utilizan las técnicas Wireframe y Mockup vistas anteriormente.      
+              .col-auto
+                figure
+                  img(src='@/assets/curso/temas/t6/t6_32.svg', alt='').img150.m-auto
+
+            .row.justify-content-around.cardNumber(data-cardNumber="06")
+              .col-lg-8.mb-2.mb-lg-0                                
+                p Aplicar pruebas de usabilidad del producto con el fin de evaluar el uso que el usuario le dará al producto de acuerdo con el alcance y los objetivos definidas por el cliente.     
+              .col-auto
+                figure
+                  img(src='@/assets/curso/temas/t6/t6_33.svg', alt='').img150.m-auto
+
       .col-lg-5.d-none.d-lg-flex
         figure
           img(src="@/assets/curso/temas/t6/t6_01A.svg", alt="alt")
@@ -40,9 +75,6 @@
 
     .row.justify-content-center.mb-5(data-aos="zoom-in")
       .col-lg-8
-        .titulo-sexto.color-acento-contenido
-          h5 Figura 3.
-          span Enfoque metodológico
         figure
           img(src="@/assets/curso/temas/t6/t6_02.svg", alt="alt")
 
@@ -68,7 +100,7 @@
                     figure
                       img(src="@/assets/curso/temas/t6/t6_04.svg", alt="alt").img90
                   .col
-                    p.mb-0 Se analizan las características del contexto de uso del producto (políticas, económicas, tecnológicas, sociales y culturales) y se realiza un estudio de mercado para detectar aquellas que presente similitudes y realizar un rediseño de este si es necesario. 
+                    p.mb-0 Se analizan las características del contexto de uso del producto (políticas, económicas, tecnológicas, sociales y culturales) y se realiza un estudio de mercado para detectar aquellas que presenten similitudes y realizar un rediseño de este si es necesario. 
 
             .row(numero="2" titulo="La etapa de definición ")
               .col-12              
@@ -77,11 +109,11 @@
                     figure
                       img(src="@/assets/curso/temas/t6/t6_05.svg", alt="alt").img90
                   .col
-                    p.mb-0 Se analizan las características del contexto de uso del producto (políticas, económicas, tecnológicas, sociales y culturales) y se realiza un estudio de mercado para detectar aquellas que presente similitudes y realizar un rediseño de este si es necesario.
+                    p.mb-0 Plasma toda la información recopilada anteriormente, en la definición del alcance del proyecto, estableciendo los objetivos específicos de acuerdo con el uso que los usuarios harán del producto a desarrollar. 
 
-                p.mb-0 Recopila la mayor cantidad de información posible, caracterizando los usuarios de acuerdo con su perfil personal, demográfico, cultural y rol que desempeña en el proyecto e igualmente se categorizan las necesidades que tienen de usar el producto a desarrollar. 
+                p.mb-0 Se identifican las actividades necesarias para la elaboración de la maqueta, precisando la técnica y las herramientas tecnológicas que se utilizarán en la etapa de diseño. Se definen los instrumentos para la aplicación de las pruebas de usabilidad del producto.
 
-            .row(numero="3" titulo="La etapa de investigación")
+            .row(numero="3" titulo="La etapa de diseño")
               .col-12
                 p Estructura la maqueta / prototipo del producto, estableciendo los aspectos de funcionalidad y las interfaces de interacción que tendrá con el usuario.  
                 .row
@@ -89,9 +121,9 @@
                     figure
                       img(src="@/assets/curso/temas/t6/t6_06.svg", alt="alt").img90
                   .col
-                    p.mb-0 Se utilizan las herramientas de maquetado de alta fidelidad como los Mockups, incorporando textos, imágenes o animaciones para darle una mayor aproximación a lo que sería  el producto final, permitiendo que tanto cliente como usuario realice los procesos necesarios con lo cual puedan evaluar su usabilidad.
+                    p.mb-0 Se utilizan las herramientas de maquetado de alta fidelidad como los #[em mockups], incorporando textos, imágenes o animaciones para darle una mayor aproximación a lo que sería  el producto final, permitiendo que tanto cliente como usuario realice los procesos necesarios con lo cual puedan evaluar su usabilidad.
 
-            .row(numero="4" titulo="La etapa de definición ")
+            .row(numero="4" titulo="La etapa de prueba ")
               .col-12              
                 .row.mb-4
                   .col-auto
@@ -169,17 +201,17 @@
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")(data-aos="fade")
       .row(titulo="Visibilidad del estado del sistema").p-4
         .col-lg-8          
-          p El usuario debe recibir una retroalimentación del estado del producto en cada instante para saber que pasa cuando interactúa con él, por ejemplo si está guardando, cargando, o si hay algún tipo de error. 
-          p.mb-0 En la imagen anterior se observan los mensajes que visualiza un usuario cuando sube un archivo correctamente SUCCESS! y puede cerrar el proceso CLOSE o cuando hubo algún problema en esta acción ERROR! Y debe intentar de nuevo TRY AGAIN. 
+          p El usuario debe recibir una retroalimentación del estado del producto en cada instante para saber qué pasa cuando interactúa con él, por ejemplo si está guardando, cargando, o si hay algún tipo de error. 
+          p.mb-0 En la imagen anterior se observan los mensajes que visualiza un usuario cuando sube un archivo correctamente #[em SUCCESS!] y puede cerrar el proceso CLOSE o cuando hubo algún problema en esta acción #[em ERROR!] Y debe intentar de nuevo #[em TRY AGAIN]. 
      
         .col-lg-4.col-8
           figure
             img(src='@/assets/curso/temas/t6/t6_08.png', alt='')  
 
-      .row(titulo="Relación con el mundo real").p-4
+      .row(titulo="Relación del producto con el mundo real").p-4
         .col-lg-8          
           p Se debe brindar al usuario toda la información necesaria para que no tenga dudas o cometa errores en la acción que va a realizar.
-          p.mb-0 Por ejemplo cuando un usuario está haciendo una compra tipo crédito en línea, se le debe indicar que datos debe diligenciar y en donde los encuentra en su tarjeta como se muestra en la imagen, ya que se debe partir de que todos los internautas no son ágiles en el manejo de estos sistemas. 
+          p.mb-0 Por ejemplo cuando un usuario está haciendo una compra tipo crédito en línea, se le debe indicar qué datos debe diligenciar y en donde los encuentra en su tarjeta como se muestra en la imagen, ya que se debe partir de que todos los internautas no son ágiles en el manejo de estos sistemas. 
      
         .col-lg-4.col-8
           figure
@@ -188,7 +220,7 @@
       .row(titulo="Libertad al usuario").p-4
         .col-lg-8          
           p El producto debe permitir que el usuario cancele un proceso que estaba realizando sin finalizarlo, de tal manera que esta acción no represente compromisos o penalizaciones que puedan llegar a afectarlo en cualquier aspecto de su estado emocional o material. 
-          p En la imagen se visualiza como un usuario a abortado la compra en el momento en que estaba digitando el numero de la tarjeta de crédito. 
+          p En la imagen se visualiza como un usuario a abortado la compra en el momento en que estaba digitando el número de la tarjeta de crédito. 
           p.mb-0 Esta libertad que le da el producto multimedia permite que el usuario tenga el control y evita que se sienta encasillado en él.
      
         .col-lg-4.col-8
@@ -243,7 +275,7 @@
 
       .row(titulo="Diseño minimalista").p-4
         .col-lg-8          
-          p Es importante no saturar de información al usuario del producto, mostrándole contenido innecesario que lo puede distraiga y lo desvíe del objetivo de utilización del producto.       
+          p Es importante no saturar de información al usuario del producto, mostrándole contenido innecesario que lo distraiga y lo desvíe del objetivo de utilización del producto.       
 
           p En la imagen se observa la pantalla inicial de una agencia de viajes en la que se presenta al usuario dos barras o cajas en la que debe introducir la fecha de inicio de su viaje y el número de habitaciones que necesita de acuerdo con el número de personas que van a viajar.          
 
@@ -267,7 +299,7 @@
 
       .row(titulo="Ayuda y documentación").p-4
         .col-lg-8          
-          p Se deben detectar las dudas más comunes de los usuarios cuando esta usando el producto multimedia e incluir la información necesaria para que el mismo pueda encontrar la manera de resolverlas. De esta forma el producto se hace auto gestionable.     
+          p Se deben detectar las dudas más comunes de los usuarios cuando está usando el producto multimedia e incluir la información necesaria para que el mismo pueda encontrar la manera de resolverlas. De esta forma el producto se hace auto gestionable.     
 
           p En la imagen se muestra como la empresa presenta y documenta las ayudas necesarias para que el usuario pueda realizar los procesos y funcionalidades del producto multimedia sin que necesite una ayuda extra.         
 
@@ -279,7 +311,7 @@
 
     .row.mb-4(data-aos="fade")
       .col-auto
-        h3.custom-H3 Interactividad
+        h3.custom-H3 Accesibilidad
     
     .bg_img_04.mb-5
       .row.justify-content-center.mb-5
@@ -293,7 +325,7 @@
               figure
                 img(src="@/assets/curso/temas/recursos/rectangle_01.svg", alt="alt").img90
             .col
-              p.bold.mb-0 Esta guía consiste en una serie de estándares técnicos que explican cómo flexibilizar el ingreso de usuarios con discapacidad a cualquier contenido web. Consta de 12 pautas con diferentes niveles que permiten una accesibilidad básica (nivel A), intermedia (nivel AA) o Alta (nivel AAA). 
+              p.bold.mb-0 Esta guía consiste en una serie de estándares técnicos que explican cómo flexibilizar el ingreso de usuarios con discapacidad a cualquier contenido #[em web]. Consta de 12 pautas con diferentes niveles que permiten una accesibilidad básica (nivel A), intermedia (nivel AA) o Alta (nivel AAA). 
 
           p Estas pautas o criterios se agrupan en cuatro (4) principios: 
 
@@ -333,10 +365,10 @@
               figure
                 img(src="@/assets/curso/temas/t6/t6_21.svg", alt="alt")
 
-        .py-3.py-md-4(titulo="Comprensible")
+        .py-3.py-md-4(titulo="Robustez")
           .row.justify-content-center.align-items-center
             .col-lg-9
-              h4 Comprensible
+              h4 Robustez
               p El producto debe ser lo suficientemente robusto para permitir su uso sin importar la ubicación, máquina o navegador que se utilice y debe poder ser interpretado por cualquier aplicación, tecnología o usuario.
 
               p.mb-0 En la imagen se puede observar una aplicación de fitness y otra de calendario que son compatibles en dispositivos móviles, de tal forma que el usuario pueda desplazarse a cualquier lugar llevándolas consigo, ya que el celular puede ser de cualquier marca, lo mismo el sistema operativo que las soporta. La información que contiene el producto es la suficiente para que el usuario comprenda el botón que debe oprimir para comenzar y compartir su progreso en una actividad física o la estadística del flujo de trabajo mensual de acuerdo con las fechas programadas.
@@ -347,11 +379,11 @@
 
     .row.mb-4(data-aos="fade")
       .col-auto
-        h3.custom-H3 Accesibilidad
+        h3.custom-H3 Interactividad
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8(data-aos="fade")
-        p.mb-4 Un producto multimedia interactivo es aquel que incorpora diferentes medios que permiten que el usuario entre en contacto con él. Por lo tanto, puede integrar texto, audio, animación, videos o simuladores. Los proyectos que pueden hacer este tipo de integración pueden ser: aplicaciones móviles, programas, páginas web o videojuegos principalmente. Estos productos pertenecen a un mercado que está en constante evolución e innovación debido a que la tecnología no se estanca, igualmente está dirigidos a públicos objetivos concretos que son activos al momento de interactuar con el producto. 
+        p.mb-4 Un producto multimedia interactivo es aquel que incorpora diferentes medios que permiten que el usuario entre en contacto con él. Por lo tanto, puede integrar texto, audio, animación, videos o simuladores. Los proyectos que pueden hacer este tipo de integración pueden ser: aplicaciones móviles, programas, páginas #[em web] o videojuegos principalmente. Estos productos pertenecen a un mercado que está en constante evolución e innovación debido a que la tecnología no se estanca, igualmente está dirigidos a públicos objetivos concretos que son activos al momento de interactuar con el producto. 
         .row.mb-4
           .col-auto.d-none.d-lg-flex
             figure
@@ -371,8 +403,8 @@
             figure
               img(src="@/assets/curso/temas/t6/t6_24.png", alt="alt").img150
           .col
-            p En el tema de sistema de navegación de un proyecto multimedia se explicó con más detalle los tipos de desplazamiento que le permiten al usuario tener un contacto con el producto de forma lineal, jerárquica o hibrida. En este caso, por ejemplo:
-            p.mb-0 La imagen muestra como el usuario puede interactuar con un libro digital y pasar las páginas para leer su contenido. El tipo de estructura utilizada en el sistema de navegación es lineal ya que el usuario se desplaza a través de él de manera horizontal avanzando o retrocediendo si así lo desea, es decir hace un recorrido secuencial. 
+            p En el tema de sistema de navegación de un proyecto multimedia se explicó con más detalle los tipos de desplazamiento que le permiten al usuario tener un contacto con el producto de forma lineal, jerárquica o híbrida. En este caso, por ejemplo:
+            p.mb-0 La imagen muestra cómo el usuario puede interactuar con un libro digital y pasar las páginas para leer su contenido. El tipo de estructura utilizada en el sistema de navegación es lineal ya que el usuario se desplaza a través de él de manera horizontal avanzando o retrocediendo si así lo desea, es decir hace un recorrido secuencial. 
 
       .tarjeta.cstm_border.p-4(titulo="Finalidad y base teórica")
         h4.mb-4 Finalidad y base teórica 
@@ -381,18 +413,18 @@
             figure
               img(src="@/assets/curso/temas/t6/t6_25.png", alt="alt").img150
           .col
-            p De acuerdo con el alcance y objetivos que se persigan, se pueden construir producto multimedia que tengan la función de informar a los usuarios sobre determinadas temáticas o también productos formativos cuya finalidad sea buscar el aprendizaje en determinadas áreas de conocimiento.
-            p.mb-0 En la imagen se observa un producto multimedia que corresponde a un tutorial que va guiando sobre la realización de una receta de cocina; este puede ser un video que oriente paso a paso sobre como conseguir el objetivo, también se puede programar un clic sobre la imagen para que aparezca un texto explicativo y el usuario vaya avanzando paso a paso en la elaboración de la formula. 
+            p De acuerdo con el alcance y objetivos que se persigan, se pueden construir productos multimedia que tengan la función de informar a los usuarios sobre determinadas temáticas o también productos formativos cuya finalidad sea buscar el aprendizaje en determinadas áreas de conocimiento.
+            p.mb-0 En la imagen se observa un producto multimedia que corresponde a un tutorial que va guiando sobre la realización de una receta de cocina; este puede ser un video que oriente paso a paso sobre cómo conseguir el objetivo, también se puede programar un clic sobre la imagen para que aparezca un texto explicativo y el usuario vaya avanzando paso a paso en la elaboración de la fórmula. 
 
-      .tarjeta.cstm_border.p-4(titulo="Finalidad y base teórica")
+      .tarjeta.cstm_border.p-4(titulo="Nivel de control del usuario")
         h4.mb-4 Nivel de control del usuario 
         .row
           .col-auto.d-none.d-lg-flex
             figure
               img(src="@/assets/curso/temas/t6/t6_26.png", alt="alt").img150
           .col
-            p Es la capacidad que se le puede conferir al usuario para realizar la configure del producto multimedia de acuerdo con la necesidad y el uso que le va a proporcionar. El usuario debe poder modificar características y tomar decisiones sobre el producto.
-            p.mb-0 En la imagen se observa como el usuario puede configurar la forma de presentar una temática utilizando la herramienta ofimática de PowerPoint. En este caso el recuadro naranja muestra como este puede tomar el control sobre la forma de pasar las diapositivas en la que debe marcar la opción de Repetir el ciclo hasta presionar ESC, Mostrar sin narración o Sin animación. Este tipo de interacción proporciona más confianza al transferir al usuario el poder de uso del producto de acuerdo con su necesidad. 
+            p Es la capacidad que se le puede conferir al usuario para realizar la #[em configure] del producto multimedia de acuerdo con la necesidad y el uso que le va a proporcionar. El usuario debe poder modificar características y tomar decisiones sobre el producto.
+            p.mb-0 En la imagen se observa como el usuario puede configurar la forma de presentar una temática utilizando la herramienta ofimática de PowerPoint. En este caso el recuadro naranja muestra como este puede tomar el control sobre la forma de pasar las diapositivas en la que debe marcar la opción de repetir el ciclo hasta presionar ESC, mostrar sin narración o sin animación. Este tipo de interacción proporciona más confianza al transferir al usuario el poder de uso del producto de acuerdo con su necesidad. 
 
     .tarjeta.color-secundario.p-3(data-aos="zoom-in")
       .row.justify-content-around.align-items-center

@@ -32,7 +32,7 @@
         .col-12
           p En este sistema de navegación, el producto desarrollado tiene un contenido principal el cual presenta varias opciones más específicas hacia las cuales se puede desplazar el usuario; se llama navegación jerárquica porque la información está organizada en forma de árbol con diferentes niveles de temas que pueden tener a su vez subtemas. 
           .cajon.cjn--paleBlue.p-4.mb-4
-            p.mb-0 Este tipo de navegación le permite al usuario conocer en que lugar de la estructura se encuentra y adentrarse a los contenidos más específicos en los niveles que están más abajo, sabiendo que los generales están en la parte superior de la estructura. Por ejemplo:
+            p.mb-0 Este tipo de navegación le permite al usuario conocer en qué lugar de la estructura se encuentra y adentrarse a los contenidos más específicos en los niveles que están más abajo, sabiendo que los generales están en la parte superior de la estructura. Por ejemplo:
           .row.justify-content-center.mb-5
             .col-lg-5.col-8
               figure
@@ -40,7 +40,7 @@
 
           p.mb-0 En la estructura anterior se observa la presentación general sobre proyecto multimedia, si el usuario quiere saber un poco más puede bajar al siguiente nivel que le informará sobre los elementos interactivos y de hipertexto, si quisiera algo más específico sobre cada uno de ellos debe bajar un nivel más y consultar el contenido de animación, sonidos, nodos y enlaces.
 
-      .row.justify-content-center(titulo="Navegación jerárquica")
+      .row.justify-content-center(titulo="Navegación lineal")
         .col-12
           p.mb-4 En este sistema de navegación, el producto desarrollado se puede recorrer de manera secuencial como si se estuviera leyendo un libro pagina por página y devolverse si se quiere. Esta estructura es utilizada cuando se requiere que el usuario siga un camino o unas instrucciones paso por paso. Por ejemplo:           
          
@@ -65,7 +65,7 @@
               figure.mb-5
                 img(src="@/assets/curso/temas/t3/t3_05.svg", alt="alt")
 
-          p.mb-5 En la estructura anterior se puede observar como el usuario tiene acceso a toda la información del proyecto y además hacer uso de ella en forma secuencial si lo desea; como si estuviera leyendo un libro por páginas. 
+          p.mb-5 En la estructura anterior se puede observar cómo el usuario tiene acceso a toda la información del proyecto y además hacer uso de ella en forma secuencial si lo desea; como si estuviera leyendo un libro por páginas. 
 
           .row.justify-content-center
             .col-lg-4
@@ -77,14 +77,14 @@
                   figure
                     img(src="@/assets/curso/temas/recursos/square_00.svg", alt="alt").img65
                 .col
-                  p.mb-0 #[strong Los contenidos están organizados conservando una jerarquía que parte de un tena principal que en este caso es el proyecto multimedia, el cual se desglosa en tres temas para su desarrollo, que a su vez se divide en subtemas.]
+                  p.mb-0 #[strong Los contenidos están organizados conservando una jerarquía que parte de un tema principal que en este caso es el proyecto multimedia, el cual se desglosa en tres temas para su desarrollo, que a su vez se divide en subtemas.]
 
-              p.mb-0 El usuario debe recorrer en orden lineal el contenido para lograr el aprendizaje; aunque esto no quiere decir que después de llegar al final  o cierre no pueda devolverse a revisar cada una de las etapas anteriores. 
+              p.mb-0 La ventaja es que se puede navegar entre contenidos que están relacionados; por ejemplo al saber cómo seleccionar herramientas de desarrollo gráfico y visual, el usuario puede consultar como elaborar el elemento gráfico para posteriormente explorar como integrarlo al proyecto.   
 
     separador
 
     #t_3_2.titulo-segundo.color-acento-botones(data-aos="fade")
-      h2 3.2 Plano
+      h2 3.2 Mapa de navegación
 
     .bg_img_04.mb-5
       .row.justify-content-center.mb-5

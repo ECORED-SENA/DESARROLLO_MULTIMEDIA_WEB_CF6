@@ -82,7 +82,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Qué es el lenguaje audiovisual',
+            titulo: '¿Qué es el lenguaje audiovisual?',
             hash: 't_2_1',
           },
           {
@@ -103,12 +103,12 @@ export default {
             titulo: 'Video',
             hash: 't_2_4',
           },
-          // {
-          //   icono: 'far fa-file-alt',
-          //   numero: '2.5',
-          //   titulo: 'Estructura narrativa del texto',
-          //   hash: 't_2_5',
-          // },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.5',
+            titulo: 'Estructura narrativa del texto',
+            hash: 't_2_5',
+          },
         ],
       },
       {
@@ -136,7 +136,7 @@ export default {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'Sistema de navegación del proyecto multimedia',
+        titulo: '<em>Wireframe</em>',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -210,16 +210,52 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Elementos visuales de diseño gráfico',
+      referencia:
+        'Marco Creativo. (2016). Psicología del color ¿Qué transmiten los colores? Diseño Gráfico ',
+      tipo: 'video',
+      link: 'https://www.youtube.com/watch?v=X8kbrAzV6BM',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Plano',
+      referencia: 'Aprendercine.com. (2019). Escena y secuencia, plano y toma.',
+      tipo: 'video',
+      link: 'https://www.youtube.com/watch?v=8M2AvxsnP7o',
+    },
+    {
+      tema: 'Plano',
+      referencia:
+        'Aprendercine.com (s.f.). Tipos de planos más usados en cine y televisión.',
+      tipo: 'video',
+      link: 'https://www.youtube.com/watch?v=WsCETCsKkGE',
+    },
+    {
+      tema: 'Encuadre',
+      referencia:
+        'Aprendercine.com (2020). 15 movimientos de cámara cinematográficos.',
+      tipo: 'video',
+      link: 'https://www.youtube.com/watch?v=iN0rf5vUfxc',
+    },
+    {
+      tema: 'Encuadre',
+      referencia:
+        'Aprendercine.com (2020). ÁNGULOS DE CÁMARA en fotografía y VÍDEO Lenguaje del cine',
+      tipo: 'video',
+      link: 'https://www.youtube.com/watch?v=0qf1svMgbrw',
+    },
+    {
+      tema: 'Video',
+      referencia:
+        'IVANEVSKY tutoriales de Dibujo Cartoon. (2018). Cómo Hacer un <em>Storyboard.</em>',
+      tipo: 'video',
+      link: 'https://www.youtube.com/watch?v=lLcok2OfnCA',
+    },
+    {
+      tema: 'Video',
+      referencia:
+        'Gámez, J. (2019). Los planos narrativos para <em>comic, storyboard</em> o ilustración',
+      tipo: 'video',
+      link: 'https://www.youtube.com/watch?v=HQN0h3yOWR4',
     },
   ],
   glosario: [

@@ -9,7 +9,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8(data-aos="fade") 
-        p #[span.strong.clr--blue muchas ocasiones se ha escuchado hablar de lenguaje audiovisual cuando se pretende integrar el lenguaje verbal con el lenguaje visual de las imágenes estáticas;] esta fusión o integración corresponde a una forma de expresión, donde se establece relación directa con lo que se busca representar a través de una narración de tipo inmersivo, generando una fusión de distintas sensaciones.
+        p #[span.strong.clr--blue En muchas ocasiones se ha escuchado hablar de lenguaje audiovisual cuando se pretende integrar el lenguaje verbal con el lenguaje visual de las imágenes estáticas;] esta fusión o integración corresponde a una forma de expresión, donde se establece relación directa con lo que se busca representar a través de una narración de tipo inmersivo, generando una fusión de distintas sensaciones.
         .row
           .col-auto.d-none.d-lg-flex
             figure
@@ -31,7 +31,7 @@
             img(src="@/assets/curso/temas/t2/t2_02.svg", alt="alt")
         .col-lg-8
           .bloque-texto-a__texto.p-4
-            p.mb-0 #[strong El lenguaje audiovisual es un sistema de comunicación que se fundamenta en la utilización de simbologías, las cuales se crean con un propósito autónomo permitiendo el desarrollo de un lenguaje propio que se enfoca en la comunicación de los contenidos creados, verbales y auditivos; estos pueden ser captados por los espectadores con facilidad y recordación dando comprensión y sentido a la pieza audiovisual, la cual debe trasmitir emociones por intermedio de las imágenes utilizadas. Dichas emociones proyecten una idea clara de las imágenes en movimiento y un lenguaje sonoro.]
+            p.mb-0 #[strong El lenguaje audiovisual es un sistema de comunicación que se fundamenta en la utilización de simbologías, las cuales se crean con un propósito autónomo permitiendo el desarrollo de un lenguaje propio que se enfoca en la comunicación de los contenidos creados, verbales y auditivos; estos pueden ser captados por los espectadores con facilidad y recordación dando comprensión y sentido a la pieza audiovisual, la cual debe transmitir emociones por intermedio de las imágenes utilizadas. Dichas emociones proyectan una idea clara de las imágenes en movimiento y un lenguaje sonoro.]
 
     h4.mb-4(data-aos="fade")  ¿Qué elementos componen el lenguaje audiovisual?
 
@@ -50,7 +50,7 @@
               figure
                 img(src="@/assets/curso/temas/t2/t2_03.svg", alt="alt").img90
             .col-lg
-              p.mb-0 Al momento de construir un mensaje verbal es importante tener en cuenta la creación de enunciados, frases y palabras significativas, lo que le permitirá al receptor tener una comprensión asertiva del mensaje sonoro y visual ya que estas dan un resultado final al mensaje que se desee proyectar, se debe tener en cuenta como se utilizaran verbos, nombres y adjetivos.
+              p.mb-0 Al momento de construir un mensaje verbal es importante tener en cuenta la creación de enunciados, frases y palabras significativas, lo que le permitirá al receptor tener una comprensión asertiva del mensaje sonoro y visual ya que estas dan un resultado final al mensaje que se desee proyectar, se debe tener en cuenta cómo se utilizan verbos, nombres y adjetivos.
 
           .row(numero="2" titulo="Elementos morfolóficos")
 
@@ -64,7 +64,7 @@
               ul.fa-ul
                 li
                   i.fa-li.fas.fa-caret-right.clr--orange
-                  | Formativa, Informativa, testimonial.
+                  | Formativa, informativa, testimonial.
                 li
                   i.fa-li.fas.fa-caret-right.clr--orange
                   | Recreativa, expresiva.
@@ -140,7 +140,7 @@
         .row.justify-content-around    
           .col-lg-8.order-1.order-lg-2
             h3 Plano general (PG)
-            p.mb-0 Hace referencia al entorno visual de lo que compone un elemento y sus características con las cuales se logran conceder estructura y estabilidad de una pieza grafica de esta forma se puede crear dinamismo en el contenido, que puede ser simétrico o asimétrico. En este principio cuenta mucho el cómo se les da ubicación a los elementos visuales con el fin de darle estética y percepción cumpliendo un propósito o apariencia particular.           
+            p.mb-0 A diferencia del GPG, este permite que las personas se muestren en un ambiente en el cual se pueden ver en un contexto claro, precisando las acciones y los elementos que se desarrollan se puedan entender de mejor forma.           
           .col-lg-3.col-8.order-2.order-lg-1
             figure
               img(src='@/assets/curso/temas/t2/t2_11.png', alt='')
@@ -208,7 +208,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-8.order-2.order-lg-1(data-aos="fade") 
-        p.mb-4 El encuadre visual es la forma en la que se puede delimitar un espacio requerido de algo que se desee enseñar; en términos técnicos se le conoce como (On) y es lo que queda proyectado dentro de una sección a esto se conoce como encuadre, lo que queda por fuera de la sección delimitada se entiende como (Off). Es un juego de seleccionar, mostrar y registrar a través del movimiento de la cámara donde se pueden lograr diversas expresiones de un contexto.
+        p.mb-4 El encuadre visual es la forma en la que se puede delimitar un espacio requerido de algo que se desee enseñar; en términos técnicos se le conoce como #[em (On)] y es lo que queda proyectado dentro de una sección a esto se conoce como encuadre, lo que queda por fuera de la sección delimitada se entiende como #[em (Off)]. Es un juego de seleccionar, mostrar y registrar a través del movimiento de la cámara donde se pueden lograr diversas expresiones de un contexto.
         .row
           .col-auto.d-none.d-lg-flex
             figure
@@ -275,9 +275,9 @@
 
     .row.mb-4(data-aos="fade") 
       .col-auto
-        h3.custom-H3 El espacio off
+        h3.custom-H3 El espacio #[em off]
 
-    p(data-aos="fade").mb-5 El espacio off, es naturalmente lo que no está en el cuadro principal de la imagen; sin embargo, es el entorno que puede ser perceptible por los sentidos, no es necesario ver toda la imagen para comprender lo que está sucediendo alrededor del espacio nulo; aquí se pueden apoyar de los sonidos, las expresiones o los eventos, permitiendo que el espectador de acuerdo a su experiencia le dé fin al resto del entorno.
+    p(data-aos="fade").mb-5 El espacio #[em off], es naturalmente lo que no está en el cuadro principal de la imagen; sin embargo, es el entorno que puede ser perceptible por los sentidos, no es necesario ver toda la imagen para comprender lo que está sucediendo alrededor del espacio nulo; aquí se pueden apoyar de los sonidos, las expresiones o los eventos, permitiendo que el espectador de acuerdo a su experiencia le dé fin al resto del entorno.
 
     .row(data-aos="fade").mb-4
       .col-auto
@@ -295,7 +295,7 @@
             figure
               img(src="@/assets/curso/temas/t2/t2_21.png", alt="alt")
 
-    p(data-aos="fade").mb-5 Para llevar a cabo el encuadre audiovisual se deben tener en cuenta los siguientes aspectos:
+    p(data-aos="fade").mb-5 Ahora, se puede revisar en qué consiste cada movimiento:
 
     figure.mb-5
       .video
@@ -340,7 +340,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-8(data-aos="fade")
-        p Sistema de grabación y reproducción de imágenes, acompañadas o no de sonidos, mediante cinta magnética u otros medios electrónicos. Aparato que graba y reproduce mediante cintas magnéticas u otros medios electrónicos imágenes y sonidos procedentes de la televisión o de otro aparato de video. Es la Parte de la señal de televisión que corresponde a la imagen.
+        p Sistema de grabación y reproducción de imágenes, acompañadas o no de sonidos, mediante cinta magnética u otros medios electrónicos. Aparato que graba y reproduce mediante cintas magnéticas u otros medios electrónicos imágenes y sonidos procedentes de la televisión o de otro aparato de video. Es la parte de la señal de televisión que corresponde a la imagen.
         .row
           .col-auto.d-none.d-lg-flex
             figure
@@ -358,7 +358,7 @@
         figure
           img(src="@/assets/curso/temas/t2/t2_26.svg", alt="alt")
       .col-lg-8(data-aos="fade")
-        p Es la etapa donde se diseña el proyecto audiovisual, en primer lugar, se escribe la historia a contar, posterior a ello se realiza el guion y el storyboard, esta fase permitirá tener la claridad de los espacios físicos donde se desarrollará el contexto, los recursos técnicos, personal, financiación; lo primero es tener algo que contar, es llevar una experiencia, contar una historia o desarrollar una idea producto de la imaginación y poderla plasmar en el formato. El creador o guionista debe tener claro el inicio del primer guion, el cual por lo general está escrito, en este se plasman qué necesidades artísticas, técnicas y narrativas se requieren para el desarrollo de la preproducción, de igual forma se debe tener claro todo el tema de recurso económico, el gasto pertinente de este y el diseño de un cronograma de actividades por semana que podrá variar de acuerdo con la ejecución del proceso. 
+        p Es la etapa donde se diseña el proyecto audiovisual, en primer lugar, se escribe la historia a contar, posterior a ello se realiza el guion y el #[storyboard off], esta fase permitirá tener la claridad de los espacios físicos donde se desarrollará el contexto, los recursos técnicos, personal, financiación; lo primero es tener algo que contar, es llevar una experiencia, contar una historia o desarrollar una idea producto de la imaginación y poderla plasmar en el formato. El creador o guionista debe tener claro el inicio del primer guion, el cual por lo general está escrito, en este se plasman qué necesidades artísticas, técnicas y narrativas se requieren para el desarrollo de la preproducción, de igual forma se debe tener claro todo el tema de recurso económico, el gasto pertinente de este y el diseño de un cronograma de actividades por semana que podrá variar de acuerdo con la ejecución del proceso. 
 
     .row.justify-content-center(data-aos="fade").mb-5
       .col-lg-8
@@ -369,7 +369,7 @@
           .col
             p.mb-0 #[strong En pocas palabras, la preproducción se liga a los recursos humanos, técnicos y económicos de una puesta en marcha clara y concreta.]
         .cajon.cjn--paleBlue.p-4.mb-4
-          p.mb-0 Teniendo en cuenta todo lo anteriormente mencionado se determina cuál es el enfoque que se le va a dar a la preproducción, esto permitirá diseñar el guion técnico y el storyboard. 
+          p.mb-0 Teniendo en cuenta todo lo anteriormente mencionado se determina cuál es el enfoque que se le va a dar a la preproducción, esto permitirá diseñar el guion técnico y el #[storyboard off]. 
         p Teniendo en cuenta lo anterior se puede ahora conocer qué es un guion: 
       .col-lg-4.d-none.d-lg-flex(data-aos="zoom-in")
         figure
@@ -378,7 +378,7 @@
 
     .row(data-aos="fade").mb-4
       .col-auto
-        h3.custom-H3 El guión
+        h3.custom-H3 El Guion
 
     .bg_img_01.mb-5
       .row.justify-content-center.mb-5
@@ -397,19 +397,19 @@
         .crd.bg--paleBlue.brad_01.p-5.hg-100
           figure.mb-2
             img(src="@/assets/curso/temas/t2/t2_29.svg", alt="alt").img120
-          p.mb-0 #[strong La idea:] describir en dos líneas de que trata el video.
+          p.mb-0 #[strong La idea:] describir en dos líneas de qué trata el video.
       .col-lg-4.mb-4.mb-lg-0(data-aos="zoom-in")
         .crd.bg--paleYellow.brad_01.p-5.hg-100
           figure.mb-2
             img(src="@/assets/curso/temas/t2/t2_30.svg", alt="alt").img120
-          p.mb-0 #[strong La sinopsis:] es una descripción detallada de la temática de producción, quienes hacen parte de la trama, en que espacios se va a desarrollar y cuales con los y contextos de acuerdo con la historia de la producción.
+          p.mb-0 #[strong La sinopsis:] es una descripción detallada de la temática de producción, quienes hacen parte de la trama, en qué espacios se va a desarrollar y cuales con los y contextos de acuerdo con la historia de la producción.
       .col-lg-4.mb-4.mb-lg-0(data-aos="zoom-in")
         .crd.bg--paleGray.brad_01.p-5.hg-100
           figure.mb-2
             img(src="@/assets/curso/temas/t2/t2_31.svg", alt="alt").img120
           p.mb-0 #[strong Tratamiento:] se realiza un pequeño documento de no más de tres hojas, y se describe claramente la idea, que personajes van a estar en la producción si estos se relacionan entre sí, y muy importante las locaciones.
 
-    h4(data-aos="fade").mb-5 Tipos de guión
+    h4(data-aos="fade").mb-5 Tipos de guion
 
     .bg_img_03
       .row.justify-content-center.mb-5
@@ -420,8 +420,8 @@
                 figure
                   img(src="@/assets/curso/temas/t2/t2_32.svg", alt="alt").img90
               .col
-                h5.text-white Guión literario
-                p.text-white Es una descripción puntual del contenido del video regido por escenas o secuencias, este trasmite una información clara diferenciando los entornos, los contextos de cómo podrían desarrollarse las escenas, que hacen los personajes, como interactúan en sus roles de igual forma una percepción del ambiente y sus contextos.
+                h5.text-white Guion literario
+                p.text-white Es una descripción puntual del contenido del video regido por escenas o secuencias, este transmite una información clara diferenciando los entornos, los contextos de cómo podrían desarrollarse las escenas, qué hacen los personajes, cómo interactúan en sus roles de igual forma una percepción del ambiente y sus contextos.
         .col-lg-6(data-aos="zoom-in")
           .crd.crd--avatarH.grad_01.hg-100
             .row.py-4.pe-4
@@ -429,7 +429,7 @@
                 figure
                   img(src="@/assets/curso/temas/t2/t2_33.svg", alt="alt").img90
               .col
-                h5.text-white Guión técnico
+                h5.text-white Guion técnico
                 p.text-white Es un documento que determina el segmento audiovisual, se transforma la historia y determina las imágenes con las cuales se desarrollará el guion teniendo en cuenta que se necesita técnicamente para cada plano, para llevar a cabo el guion técnico se debe conocer previamente el guion literario el realizador podrá hacer los cambios que este crea pertinente dentro de la estructura del guion técnico.
 
 
@@ -458,7 +458,7 @@
 
     .row.mb-4
       .col-auto
-        h3.custom-H3 ¿Qué es un StoryBoard?
+        h3.custom-H3 ¿Qué es un #[storyboard off]?
 
     figure(data-aos="fade")
       img(src="@/assets/curso/temas/t2/t2_35.png", alt="alt")
@@ -467,7 +467,7 @@
         .cstmTitleCrd
           p.mb-0 Es un conjunto de ilustraciones, desplegadas de forma secuencial organizadamente, dándole estructura a una producción, la cual se puede utilizar para previsualizar una animación o proyectar la estructura de la misma, hace parte de la preproducción del proyecto audiovisual, para realizar esta acción su guion debe estar previamente finalizado permitiendo la presentación de la historia de forma visual y espacial.
 
-    h5(data-aos="fade").mb-5 Ventajas de un storyboard:
+    h5(data-aos="fade").mb-5 Ventajas de un #[storyboard off]:
 
     .row.justify-content-center.mb-5
       .col-lg-3.col-8.mb-4.mb-lg-0(data-aos="fade")
@@ -480,7 +480,7 @@
         .crd.bg--gray.brad_02.shadow.hg-100.p-4
           figure.mb-4
             img(src="@/assets/curso/temas/t2/t2_37.svg", alt="alt").img90.m-auto
-          p.text-center.mb-0 #[strong Ahorrar tiempo:] aunque requiere tiempo hacer un storyboard, se recupera perfectamente al reducir el tiempo de procesamiento de información si no se tuviera plasmadas de manera visual las acciones.
+          p.text-center.mb-0 #[strong Ahorrar tiempo:] aunque requiere tiempo hacer un #[storyboard off], se recupera perfectamente al reducir el tiempo de procesamiento de información si no se tuviera plasmadas de manera visual las acciones.
 
       .col-lg-3.col-8.mb-4.mb-lg-0(data-aos="fade")
         .crd.bg--gray.brad_02.shadow.hg-100.p-4
@@ -494,21 +494,21 @@
             img(src="@/assets/curso/temas/t2/t2_39.svg", alt="alt").img90.m-auto
           p.text-center.mb-0 #[strong Asegurar la continuidad:] viendo de manera simplificada cada viñeta nos hace notar mejor las localizaciones, movimientos y ejes de la historia.
 
-    h5(data-aos="fade").mb-5 Cómo hacer un storyboard:
+    h5(data-aos="fade").mb-5 Cómo hacer un #[storyboard off]:
 
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-4.mb-lg-0(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/t2/t2_42.svg", alt="alt")
       .col-lg-8
-        p Para la creación de un storyboard se deben tener en cuenta diversos factores y recursos tales como, tiempo para la creación de la creación y diseño de ilustraciones, los recursos humanos y tecnológicos y qué tanto se va extender la producción, esto con el fin de llevar la secuencia clara de las ideas plasmadas en el guion.
+        p Para la creación de un #[storyboard off] se deben tener en cuenta diversos factores y recursos tales como, tiempo para la creación de la creación y diseño de ilustraciones, los recursos humanos y tecnológicos y qué tanto se va extender la producción, esto con el fin de llevar la secuencia clara de las ideas plasmadas en el guion.
 
         .row.mb-5(data-aos="fade")
           .col-auto.d-none.d-lg-flex
             figure
               img(src="@/assets/curso/temas/recursos/rectangle_01.svg", alt="alt").img90
           .col 
-            p.mb-0 #[strong Los storyboards se pueden dividir en etapas las cuales son:]
+            p.mb-0 #[strong Los #[storyboards off] se pueden dividir en etapas las cuales son:]
 
         .row.justify-content-center
           .col-lg-6(data-aos="flip-left").mb-4.mb-lg-0
@@ -522,7 +522,7 @@
                 img(src="@/assets/curso/temas/t2/t2_41.svg", alt="alt").img65
               p.mb-0 #[strong Narrativa audiovisual:] se deben seleccionar adecuadamente los movimientos de cámara y planos con los cuales se van a realizar las tomas. 
 
-    h5.mb-5.mb-lg-2 Algunos consejos sobre cómo hacer un storyboard: 
+    h5.mb-5.mb-lg-2 Algunos consejos sobre cómo hacer un #[storyboard off]: 
 
     .row.justify-content-between.align-items-center.mb-5
       .col-lg-7(data-aos="fade").mb-4.mb-lg-0
@@ -537,7 +537,7 @@
           .hr--line
           li
             i.fa-li.fas.fa-pen-square.clr--orange
-            | Los storyboards pueden ser horizontales o verticales.
+            | Los #[storyboards off] pueden ser horizontales o verticales.
           .hr--line
           li
             i.fa-li.fas.fa-pen-square.clr--orange
@@ -566,7 +566,7 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h3.mb-1 Los planos narrativos para comic, storyboard o ilustracion
+              h3.mb-1 Los planos narrativos para comic, #[storyboard off] o ilustracion
               p.mb-0 Estimado aprendiz, se puede observar el siguiente video para reforzar el nuevo conocimiento sobre planos en el lenguaje audiovisual.
             .col-sm-auto
               a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=AVLz70yZAb0" target="_blank")
@@ -588,7 +588,7 @@
                   img(src="@/assets/curso/temas/t2/t2_44.svg", alt="alt").img90
               .col
                 h5.text-white Rodaje
-                p.text-white Sin duda alguna el rodaje es un atapa del proceso en producción audiovisual que demanda bastante tiempo y requiere un número significativo de profesionales con un rol diferente cada uno de ellos haciendo del rodaje una secuencia de acciones conjuntas para un fin determinado, es muy importante el tratar de no cometer errores evitando tener consecuencias económicas en la producción.<br><br>    Se debe seguir el cronograma ordenadamente, en este escenario es importante contar con un script, quien es el encargado de supervisar y monitorear cada actividad que se realiza en la producción con el fin de que nada este fuera de los tiempos acordados y las actividades se desarrollen de acuerdo a lo programado.
+                p.text-white Sin duda alguna el rodaje es un etapa del proceso en producción audiovisual que demanda bastante tiempo y requiere un número significativo de profesionales con un rol diferente cada uno de ellos haciendo del rodaje una secuencia de acciones conjuntas para un fin determinado, es muy importante el tratar de no cometer errores evitando tener consecuencias económicas en la producción.<br><br>    Se debe seguir el cronograma ordenadamente, en este escenario es importante contar con un <em>script</em>, quien es el encargado de supervisar y monitorear cada actividad que se realiza en la producción con el fin de que nada este fuera de los tiempos acordados y las actividades se desarrollen de acuerdo a lo programado.
 
         .col-lg-6(data-aos="zoom-in")
           .crd.crd--avatarH.grad_01.hg-100
@@ -598,11 +598,11 @@
                   img(src="@/assets/curso/temas/t2/t2_45.svg", alt="alt").img90
               .col
                 h5.text-white Postproducción
-                p.text-white La postproducción consiente en analizar la calidad del material grabado y convertirlo en narración, generando que las diversas escenas fragmentadas tengan sentido, no es un proceso de corto tiempo, ya que se ajustara lo que no esté de acuerdo a lo requerido (sonido, iluminación, imagen, color) la postproducción implica añadir y complementar efectos visuales, sonoros o especiales de ser necesario, esta etapa final es muy compleja y técnica, la cual debe permitir hacer cualquier ajuste que no cumpla con calidad, para la muestra definitiva de la obra audiovisual.
+                p.text-white La postproducción consiente en analizar la calidad del material grabado y convertirlo en narración, generando que las diversas escenas fragmentadas tengan sentido, no es un proceso de corto tiempo, ya que se ajustará lo que no esté de acuerdo a lo requerido (sonido, iluminación, imagen, color) la postproducción implica añadir y complementar efectos visuales, sonoros o especiales de ser necesario, esta etapa final es muy compleja y técnica, la cual debe permitir hacer cualquier ajuste que no cumpla con calidad, para la muestra definitiva de la obra audiovisual.
 
     separador
 
-    #t_2_4.titulo-segundo.color-acento-botones(data-aos="fade")
+    #t_2_5.titulo-segundo.color-acento-botones(data-aos="fade")
       h2 2.5 Estructura narrativa del texto
 
     p(data-aos="fade").mb-5 Es la forma en la que se organiza un contenido dentro de un texto. Para entender mejor es la información detallada y estructurada que se desee narrar, está conformada por tres partes: la introducción, el nudo y el desenlace. A continuación, se detallará cada uno de estos componentes:

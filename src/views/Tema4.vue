@@ -5,31 +5,31 @@
     .titulo-principal.color-acento-botones
       .titulo-principal__numero
         span 4
-      h1 Wireframe
+      h1 <em>Wireframe</em>
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-8.mb-4.mb-lg-0(data-aos="zoom-in")  
         figure
           img(src="@/assets/curso/temas/t4/t4_01.svg", alt="alt")
       .col-lg-8(data-aos="fade")
-        p.mb-5 #[strong Es un boceto o esquema visual de un proyecto web que sirve como guía para la diagramación de las páginas que lo conforman. Consiste en un prototipo básico de lo que sería el sitio sin textos, imágenes o colores;] por lo tanto, es apenas la estructura compuesta por los bloques o espacios donde iría la información, botones, menús, gráficos, animaciones, etc. 
+        p.mb-5 #[strong Es un boceto o esquema visual de un proyecto #[em web] que sirve como guía para la diagramación de las páginas que lo conforman. Consiste en un prototipo básico de lo que sería el sitio sin textos, imágenes o colores;] por lo tanto, es apenas la estructura compuesta por los bloques o espacios donde iría la información, botones, menús, gráficos, animaciones, etc. 
         .row.justify-content-center
           .col-auto.d-none.d-lg-flex
             figure
               img(src="@/assets/curso/temas/recursos/rectangle_01.svg", alt="alt").img90
           .col
-            p.mb-0 #[strong El Wireframe es el punto de partida para la incorporación de los elementos visuales y componentes interactivos y es por ello por lo que se toma como referencia para la construcción del diseño final del proyecto.]
+            p.mb-0 #[strong El #[em wireframe] es el punto de partida para la incorporación de los elementos visuales y componentes interactivos y es por ello por lo que se toma como referencia para la construcción del diseño final del proyecto.]
 
     .row.justify-content-center.mb-5(data-aos="zoom-in")
       .col-lg-10    
         .titulo-sexto.color-acento-contenido
           h5 Figura 1.
-          span Wireframe de páginas-web
+          span #[em Wireframe] de páginas-#[em web]
         figure
           img(src="@/assets/curso/temas/t4/t4_02.svg", alt="alt").class
 
     .cajon.cjn--paleBlue.p-4.mb-5(data-aos="zoom-in")
-      p.mb-0 En la figura se observan algunos Wireframes que representan la estructura conceptual de diferentes páginas que vería un usuario; estas son las interfaces visuales o pantallas que deben contener los espacios para los siguientes elementos:
+      p.mb-0 En la figura se observan algunos #[em wireframes] que representan la estructura conceptual de diferentes páginas que vería un usuario; estas son las interfaces visuales o pantallas que deben contener los espacios para los siguientes elementos:
 
     .row.justify-content-center.mb-5
       .col-lg-7(data-aos="fade")
@@ -40,7 +40,7 @@
 
           .row(numero="2" titulo="Bloques de multimedia")
             .col-12
-              p.mb-0 Es el espacio reservado para las imágenes, gráficas, videos, logos, banners, etc.    
+              p.mb-0 Es el espacio reservado para las imágenes, gráficas, videos, logos, #[em banners], etc.    
 
           .row(numero="3" titulo="Bloques de formulario")
             .col-12
@@ -48,18 +48,18 @@
 
           .row(numero="4" titulo="Bloques de navegación")
             .col-12
-              p.mb-0 Son los elementos que dirigen al usuario a otros lugares a través de hipervínculos representados por botones, banners o menús.     
+              p.mb-0 Son los elementos que dirigen al usuario a otros lugares a través de hipervínculos representados por botones, #[em banners] o menús.     
 
           .row(numero="5" titulo="Bloques de búsqueda")
             .col-12
-              p.mb-0 Espacio destinado a buscar información dentro del sitio web.               
+              p.mb-0 Espacio destinado a buscar información dentro del sitio #[em web].               
 
       .col-lg-5.d-none.d-lg-flex(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/t4/t4_03.svg", alt="alt")
 
 
-    h5(data-aos="fade").mb-5 Ventajas de los Wireframes
+    h5(data-aos="fade").mb-5 Ventajas de los #[em wireframes]
 
     .row.justify-content-center
       .col-lg-4.col-8.mb-4.mb-lg-0(data-aos="zoom-in")
@@ -69,7 +69,7 @@
         ul.fa-ul
           li
             i.fa-li.fas.fa-pen-square.clr--orange
-            | Ayuda a los diseñadores a definir la estructura del proyecto web acorde con las indicaciones del cliente.
+            | Ayuda a los diseñadores a definir la estructura del proyecto #[em web] acorde con las indicaciones del cliente.
           .hr--line
           li
             i.fa-li.fas.fa-pen-square.clr--orange
@@ -81,14 +81,16 @@
           .hr--line
           li
             i.fa-li.fas.fa-pen-square.clr--orange
-            | Mejora la usabilidad del proyecto al identificar los elementos que interactuarán con los usuarios a la hora de demostrar su desempeño.
+            | Mejora la usabilidad del proyecto al identificar los elementos que interactúan con los usuarios a la hora de demostrar su desempeño.
 
     separador
 
     #t_4_1.titulo-segundo.color-acento-botones(data-aos="fade")
-      h2 4.1 Tipos de navegación
+      h2 4.1 Herramientas para elaborar <em>Wireframe</em>
 
-    p(data-aos="fade").mb-5 #[strong Los Wireframes se pueden elaborar a mano alzada usando solo el lápiz y el papel.] Esta técnica resulta mucho más fácil que cualquier otra que haya en el mercado digital; sin embargo, cuando se trabaja en equipo es mejor utilizar herramientas que permitan compartir los desarrollos, de tal manera que cada miembro pueda hacer las modificaciones que considere, de una manera más ágil. 
+    p(data-aos="fade") #[strong Los #[em wireframes] se pueden elaborar a mano alzada usando solo el lápiz y el papel.] Esta técnica resulta mucho más fácil que cualquier otra que haya en el mercado digital; sin embargo, cuando se trabaja en equipo es mejor utilizar herramientas que permitan compartir los desarrollos, de tal manera que cada miembro pueda hacer las modificaciones que considere, de una manera más ágil. 
+
+    p(data-aos="fade").mb-5 A continuación, se presentan algunas de las herramientas más utilizadas por su versatilidad y funcionalidad:
 
     .slyderBg_01.pt-5.p-4(data-aos="fade")
       SlyderA(tipo="b")
@@ -114,7 +116,7 @@
               img(src='@/assets/curso/temas/t4/t4_07.png', alt='')
           .col-lg-8
             h4 InVision
-            p.mb-0 Además de tener las mimas funciones del Adobe XD, permite añadir elementos interactivos y simular el funcionamiento de la proyecto web.   
+            p.mb-0 Además de tener las mismas funciones del Adobe XD, permite añadir elementos interactivos y simular el funcionamiento del proyecto #[em web].   
 
         .row.justify-content-around.align-items-center
           .col-lg-3.col-8.mb-2.mb-lg-0
@@ -122,7 +124,7 @@
               img(src='@/assets/curso/temas/t4/t4_08.png', alt='')
           .col-lg-8
             h4 Lucidchart
-            p.mb-0 Esta herramienta se puede conseguir en la versión gratuita aunque con ella no se puedan utilizar todas las funciones. Permite no solo realizar bocetos de bloques sino mas conceptuales, diagramas de flujo y organigramas. 
+            p.mb-0 Esta herramienta se puede conseguir en la versión gratuita aunque con ella no se puedan utilizar todas las funciones. Permite no solo realizar bocetos de bloques sino, más conceptuales, diagramas de flujo y organigramas. 
 
         .row.justify-content-around.align-items-center
           .col-lg-3.col-8.mb-2.mb-lg-0
@@ -130,7 +132,7 @@
               img(src='@/assets/curso/temas/t4/t4_09.png', alt='')
           .col-lg-8
             h4 MockFlow
-            p.mb-0 Contiene todas las herramientas para elaborar prototipos pero para la gestión de un solo proyecto web y solo permite incluir a dos miembros del equipo para colaborar.        
+            p.mb-0 Contiene todas las herramientas para elaborar prototipos pero para la gestión de un solo proyecto #[em web] y solo permite incluir a dos miembros del equipo para colaborar.        
 
         .row.justify-content-around.align-items-center
           .col-lg-3.col-8.mb-2.mb-lg-0
@@ -143,7 +145,7 @@
     separador
 
     #t_4_2.titulo-segundo.color-acento-botones(data-aos="fade")
-      h2 4.2 Tipos de Wireframe
+      h2 4.2 Tipos de #[em wireframe]
 
     p(data-aos="fade").mb-5 Son los siguientes:
 
@@ -156,7 +158,7 @@
                   img(src="@/assets/curso/temas/t2/t2_32.svg", alt="alt").img90
               .col
                 h5.text-white De baja fidelidad
-                p.text-white Es un Wireframe sencillo que puede hacerse a mano o utilizando las herramientas digitales. Allí se bosquejan aspectos generales del producto multimedia sin entrar en el detalle de imágenes, contenido o color. Utiliza solo escala de grises, se enfoca en la interacción del usuario y los elementos de diseño que utiliza son cuadrados, rectángulos, círculos, triángulos o líneas.
+                p.text-white Es un #[em wireframe] sencillo que puede hacerse a mano o utilizando las herramientas digitales. Allí se bosquejan aspectos generales del producto multimedia sin entrar en el detalle de imágenes, contenido o color. Utiliza solo escala de grises, se enfoca en la interacción del usuario y los elementos de diseño que utiliza son cuadrados, rectángulos, círculos, triángulos o líneas.
         .col-lg-6(data-aos="zoom-in")
           .crd.crd--avatarH.grad_01.hg-100
             .row.py-4.pe-4
@@ -165,7 +167,7 @@
                   img(src="@/assets/curso/temas/t2/t2_33.svg", alt="alt").img90
               .col
                 h5.text-white De alta fidelidad
-                p.text-white Parte del Wireframe de baja fidelidad, utilizando herramientas más especializadas de prototipado, allí se introducen aspectos que proporcionan más detalles como colores, gráficos, textos y sombras, también se enfoca en el usuario al tener en cuenta su interacción con procesos generales o detallados. Los elementos de diseño que utiliza son los mismos del Wireframe de baja fidelidad, pero con contenidos reales (texto, imágenes, color) que llaman a la acción y a la toma de decisiones.
+                p.text-white Parte del #[em wireframe] de baja fidelidad, utilizando herramientas más especializadas de prototipado, allí se introducen aspectos que proporcionan más detalles como colores, gráficos, textos y sombras, también se enfoca en el usuario al tener en cuenta su interacción con procesos generales o detallados. Los elementos de diseño que utiliza son los mismos del #[em wireframe] de baja fidelidad, pero con contenidos reales (texto, imágenes, color) que llaman a la acción y a la toma de decisiones.
 
     .row.justify-content-center.mb-5(data-aos="zoom-in")
       .col-auto 
@@ -240,7 +242,7 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h4.mb-1 Guía de Wireframing para principiantes
+              h4.mb-1 Guía de #[em wireframing] para principiantes
               p.mb-0 Estimado aprendiz, a continuación lo invitamos a consultar un video con el fin de profundizar en el proceso de la creación de <em>wireframes</em>.  
             .col-sm-auto
               a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=K79icjeOcn8" target="_blank")
@@ -254,7 +256,7 @@
             figure
               img(src="@/assets/curso/temas/t2/t2_24.svg", alt="alt")
           .col
-            p.mb-0 #[strong En el video anterior se observa un repaso de los conceptos estudiados sobre Wireframe, lo que debe incluir un buen diseño de su estructura y la manera de comenzar fácilmente a construirlo. La herramienta utilizada es Figma con un componente basado en Wireframe Kits, el cual puede instalarse en el PC en su versión libre. ] 
+            p.mb-0 #[strong En el video anterior se observa un repaso de los conceptos estudiados sobre #[em wireframe], lo que debe incluir un buen diseño de su estructura y la manera de comenzar fácilmente a construirlo. La herramienta utilizada es Figma con un componente basado en #[em Wireframe Kits], el cual puede instalarse en el PC en su versión libre. ] 
 
 
 

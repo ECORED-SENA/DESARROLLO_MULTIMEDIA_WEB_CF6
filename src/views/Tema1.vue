@@ -47,7 +47,7 @@
         .row.justify-content-around    
           .col-lg-8.order-1.order-lg-2
             h3 Balance o equilibrio
-            p Hace referencia al entorno visual de lo que compone un elemento y sus características con las cuales se logran conceder estructura y estabilidad de una pieza grafica de esta forma se puede crear dinamismo en el contenido, que puede ser simétrico o asimétrico. En este principio cuenta mucho el cómo se les da ubicación a los elementos visuales con el fin de darle estética y percepción cumpliendo un propósito o apariencia particular.           
+            p Hace referencia al entorno visual de lo que compone un elemento y sus características con las cuales se logran conceder estructura y estabilidad de una pieza gráfica de esta forma se puede crear dinamismo en el contenido, que puede ser simétrico o asimétrico. En este principio cuenta mucho el cómo se les da ubicación a los elementos visuales con el fin de darle estética y percepción cumpliendo un propósito o apariencia particular.           
           .col-lg-3.col-8.order-2.order-lg-1
             figure
               img(src='@/assets/curso/temas/t1/t1_03.svg', alt='')
@@ -63,7 +63,7 @@
         .row.justify-content-around    
           .col-lg-8.order-1.order-lg-2
             h3 Proporción o escala
-            p El principio de proporción tiene como base la concordancia del tamaño de un objeto con la composición y un resultado final, con la proporción se puede determinar la relación de los elementos sin importar su tamaño (piezas grandes y pequeñas), los cuales contenga una pieza gráfica. Aquí se pueden destacar como parte fundamental de este principio: tamaño, proporción, división
+            p El principio de proporción tiene como base la concordancia del tamaño de un objeto con la composición y un resultado final, con la proporción se puede determinar la relación de los elementos sin importar su tamaño (piezas grandes y pequeñas), los cuales contengan una pieza gráfica. Aquí se pueden destacar como parte fundamental de este principio: tamaño, proporción, división
       
           .col-lg-3.col-8.order-2.order-lg-1
             figure
@@ -71,8 +71,8 @@
 
         .row.justify-content-around
           .col-lg-8.mb-2.mb-lg-0
-            h3 Unidad o marmonía
-            p Para tener éxito y conseguir un diseño apropiado es importante tener claro que los elementos deben estar organizados y que cuenten con una correlación entre sí, generando que la pieza grafica esté representada por una unidad, siendo coherente en la comunicación que se quiera proyectar de acuerdo con un objetivo.   
+            h3 Unidad o armonía
+            p Para tener éxito y conseguir un diseño apropiado es importante tener claro que los elementos deben estar organizados y que cuenten con una correlación entre sí, generando que la pieza gráfica esté representada por una unidad, siendo coherente en la comunicación que se quiera proyectar de acuerdo con un objetivo.   
           .col-lg-3.col-8
             figure
               img(src='@/assets/curso/temas/t1/t1_06.svg', alt='')
@@ -80,7 +80,7 @@
         .row.justify-content-around    
           .col-lg-8.order-1.order-lg-2
             h3 Simplicidad
-            p El principio de simplicidad es el método por el cual se busca abreviar una pieza grafica de diseño. Aquí se puede certificar que la pieza diseñada es clara y coherente, la cual permite generar el impacto buscado por el diseñador. 
+            p El principio de simplicidad es el método por el cual se busca abreviar una pieza gráfica de diseño. Aquí se puede certificar que la pieza diseñada es clara y coherente, la cual permite generar el impacto buscado por el diseñador. 
       
           .col-lg-3.col-8.order-2.order-lg-1
             figure
@@ -112,7 +112,7 @@
 
       .row(titulo="La forma").p-4
         .col-lg-8          
-          p Se puede definir que es un espacio cerrado, que está limitado por dos superficies y la forma de medirlo es alto por ancho, se pueden determinar formas geométricas y formas orgánicas asiendo similitud a la naturaleza y su diversidad, en los dos tipos de formas se encuentra que pueden estar delimitadas por líneas y colores. Cabe resaltar que a partir de una forma se puede transmitir un mensaje o plasmar una emoción lo cual hace que la forma sea la forma en cómo se puede comunicar un concepto visual. 
+          p Se puede definir que es un espacio cerrado, que está limitado por dos superficies y la forma de medirlo es alto por ancho, se pueden determinar formas geométricas y formas orgánicas haciendo similitud a la naturaleza y su diversidad, en los dos tipos de formas se encuentra que pueden estar delimitadas por líneas y colores. Cabe resaltar que a partir de una forma se puede transmitir un mensaje o plasmar una emoción lo cual hace que la forma sea la forma en cómo se puede comunicar un concepto visual. 
         .col-lg-4.col-8
           figure
             img(src='@/assets/curso/temas/t1/t1_10.svg', alt='')    
@@ -126,15 +126,15 @@
 
       .row(titulo="El espacio").p-4
         .col-lg-8          
-          p Es el área que esta alrededor o dentro de los elementos de una pieza de diseño, se encuentran espacios negativos y positivos, los cuales tienen algunas características particulares, así:
+          p Es el área que está alrededor o dentro de los elementos de una pieza de diseño, se encuentran espacios negativos y positivos, los cuales tienen algunas características particulares, así:
           ul.fa-ul
             li
               i.fa-li.fas.fa-pen-square.clr--orange
-              | #[strong Espacio negativo] es el que está entre los elementos a conformar una pieza gráfica y contiene la composición total.
+              | #[strong Espacio negativo] es el que está entre los elementos para conformar una pieza gráfica y contiene la composición total.
             .hr--line
             li
               i.fa-li.fas.fa-pen-square.clr--orange
-              | #[strong Espacio positivo] incluye objetos y sus formas herramienta básica de diseño y percepción.
+              | #[strong Espacio positivo] incluye objetos y sus formas como herramienta básica de diseño y percepción.
 
         .col-lg-4.col-8
           figure
@@ -152,8 +152,8 @@
 
       .row(titulo="La textura").p-4
         .col-lg-8          
-          p Es una condición que presenta una superficie que permite creer visualmente que se percibe la textura al momento observar la imagen.
-          p Por intermedio de la textura se puede crear una ilusión al tacto, estas pueden ser creadas por el uso de esquemas repetitivos de imágenes que hacen que se vean livianas, fuertes, delgadas o gruesas y permiten dar una sensación de tridimensionalidad. Se plantea como sugerencia que no se carguen los diseños de mucha textura para que estos no se vean saturados y a la vista toscos y sin fondo y forma.
+          p Es una condición que presenta una superficie que permite creer visualmente que se percibe la textura al momento de observar la imagen.
+          p Por intermedio de la textura se puede crear una ilusión al tacto, estas pueden ser creadas por el uso de esquemas repetitivos de imágenes que hacen que se vean livianas, fuertes, delgadas o gruesas y permiten dar una sensación de tridimensionalidad. Se plantea como sugerencia que no se carguen los diseños de mucha textura para que estos no se vean saturados a la vista, toscos, sin fondo y forma.
 
         .col-lg-4.col-8
           figure
@@ -162,7 +162,7 @@
       .row(titulo="El color").p-4
         .col-lg-8          
           p Es la herramienta más relevante de diseño gráfico, de acuerdo a la percepción del ojo humano la cual puede captar, distinguir y dejar una sensación de calidez o rigidez de acuerdo a la cantidad de color que contenga una pieza gráfica; es decir, que tanta luz se refleja en un objeto y que tanta cantidad de color puede reflejar una sola imagen y como se puede distinguir en una composición. 
-          p Cada color puede tener un significado diferente, una sensación un concepto o algo personal, que a la percepción humana puede generar algún tipo de emocionalidad y determinación a la hora de crear una pieza gráfica. 
+          p Cada color puede tener un significado diferente, una sensación, un concepto o algo personal, que a la percepción humana puede generar algún tipo de emocionalidad y determinación a la hora de crear una pieza gráfica. 
 
         .col-lg-4.col-8
           figure
@@ -175,24 +175,12 @@
 
         .col-lg-4.col-8
           figure
-            img(src='@/assets/curso/temas/t1/t1_16.svg', alt='') 
-
-      .row(titulo="La composición").p-4
-        .col-lg-8          
-          p En el entorno del diseño y sus vertientes cuando se habla del tema de la diagramación inmediatamente se hace énfasis en toda la parte visual de un impreso o pieza gráfica, se habla de armonía, proporción y orden, entre los textos, contenidos, colores, imágenes y audiovisuales (multimedia).
-
-          p Es la técnica de distribución para la estructura y composición de una página.
-
-          p  Este arte es parte esencial en un diseño ya que debe ser funcional, llamativo e impactante para un público. 
-
-        .col-lg-4.col-8
-          figure
-            img(src='@/assets/curso/temas/t1/t1_17.svg', alt='')
+            img(src='@/assets/curso/temas/t1/t1_16.svg', alt='')       
 
       .row(titulo="La diagramación").p-4
         .col-12.mb-4
-          .row
-            .col-lg-8          
+          .row.justify-content-center.align-items-center
+            .col-lg-8.mb-4.mb-lg-0          
               p En el entorno del diseño y sus vertientes cuando se habla del tema de la diagramación inmediatamente se hace énfasis en toda la parte visual de un impreso o pieza gráfica, se habla de armonía, proporción y orden, entre los textos, contenidos, colores, imágenes y audiovisuales (multimedia).
               p Es la técnica de distribución para la estructura y composición de una página.
               p Este arte es parte esencial en un diseño ya que debe ser funcional, llamativo e impactante para un público.
@@ -203,7 +191,7 @@
         p La Diagramación debe permitir la lectura fácil, pues en ocasiones las piezas creadas son tan llamativas y entendidas por el público, que este omite la lectura de algún texto que contenga  el diseño.
         p Cuando se va a desarrollar la diagramación es importante tener en cuenta:
         .row
-          .col-lg-4.mb-3.mb-lg-0
+          .col-lg-3
             ul.fa-ul
               li.mb-3
                 i.fa-li.fas.fa-pen-square.clr--orange
@@ -211,7 +199,7 @@
               li
                 i.fa-li.fas.fa-pen-square.clr--orange
                 | #[strong Tipografía] 
-          .col-lg-4.mb-3.mb-lg-0
+          .col-lg-3
             ul.fa-ul
               li.mb-3
                 i.fa-li.fas.fa-pen-square.clr--orange
@@ -219,14 +207,22 @@
               li
                 i.fa-li.fas.fa-pen-square.clr--orange
                 | #[strong Fuentes (letras, tamaños)] 
-          .col-lg-4
+          .col-lg-3
             ul.fa-ul
               li.mb-3
                 i.fa-li.fas.fa-pen-square.clr--orange
                 | #[strong Títulos y Subtítulos] 
               li
                 i.fa-li.fas.fa-pen-square.clr--orange
-                | #[strong Graficas] 
+                | #[strong Gráficas] 
+          .col-lg-3
+            ul.fa-ul
+              li.mb-3
+                i.fa-li.fas.fa-pen-square.clr--orange
+                | #[strong Ilustraciones] 
+              li
+                i.fa-li.fas.fa-pen-square.clr--orange
+                | #[strong Fotos] 
 
     .bg_img_01
       .row.justify-content-center
@@ -254,12 +250,12 @@
               .col
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
-                    h3.mb-1 Video tutorial psiclogía del color
+                    h3.mb-1 Video tutorial psicología del color
                     p.mb-0 Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video.
                   .col-sm-auto
-                    a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=X8kbrAzV6BM" target="_blank")
-                      span.clr--base ver video
-                      i.clr--base.fas.fa-file-download
+                    a.boton.color-acento-botones.px-4(href="https://www.youtube.com/watch?v=X8kbrAzV6BM" target="_blank")
+                      span.clr--base ver 
+                      i.clr--base.fas.fa-link
 
     separador
 
@@ -316,7 +312,7 @@
               figure
                 img(src="@/assets/curso/temas/t1/t1_26.svg", alt="alt")
             .col-lg
-              p.mb-0 En estos tiempos de cambio, donde la tecnología está al alcance de todos se hace fundamental crear un sitio web. Es la manera más adecuada de captar clientes, es importante que dicho sitio conserve la identidad de lo que es la marca.
+              p.mb-0 En estos tiempos de cambio, donde la tecnología está al alcance de todos, se hace fundamental crear un sitio web. Es la manera más adecuada de captar clientes, es importante que dicho sitio conserve la identidad de lo que es la marca.
 
           .row(numero="6" titulo="El material corporativo")
             .col-auto.mb-4.mb-lg-0
@@ -326,7 +322,7 @@
               p Se debe cuidar hasta el más mínimo detalle en la creación del material corporativo, ya que este siempre enseñará la identidad de la marca y su esencia.
               p.mb-0 Es importante generalizar el contexto gráfico para cada pieza publicitaria; es decir: folletos, tarjetería, empaques entre otros. 
 
-          .row(numero="7" titulo="La atmosfera")
+          .row(numero="7" titulo="La atmósfera")
             .col-auto.mb-4.mb-lg-0
               figure
                 img(src="@/assets/curso/temas/t1/t1_28.svg", alt="alt")
@@ -341,7 +337,7 @@
     separador
 
     #t_1_4.titulo-segundo.color-acento-botones(data-aos="fade") 
-      h2 1.4 Imagen corporativa
+      h2 1.4 La línea gráfica
 
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.order-2.order-lg-1(data-aos="zoom-in") 
@@ -371,8 +367,8 @@
         .row.justify-content-center.align-items-center
           .col-lg-8.mb-4.mb-lg-0
             h4 Fase 2
-            p Crear un moodboard; es decir, un tablero de inspiración, en el cual se plasmarán los conceptos a desarrollar para graficar, estructurar y planear todo lo concerniente a la idea (línea gráfica). 
-            p.mb-0 El moodboard permite constantemente desarrollar ideas novedosas para la construcción de la identidad gráfica que cumplan con el objetivo de la propuesta para este caso la marca.      
+            p Crear un #[em moodboard]; es decir, un tablero de inspiración, en el cual se plasmarán los conceptos a desarrollar para graficar, estructurar y planear todo lo concerniente a la idea (línea gráfica). 
+            p.mb-0 El #[em moodboard] permite constantemente desarrollar ideas novedosas para la construcción de la identidad gráfica que cumplan con el objetivo de la propuesta para este caso la marca.      
           .col-lg-4.col-8
             figure
               img(src="@/assets/curso/temas/t1/t1_31.svg", alt="alt")
