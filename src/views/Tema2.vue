@@ -358,7 +358,7 @@
         figure
           img(src="@/assets/curso/temas/t2/t2_26.svg", alt="alt")
       .col-lg-8(data-aos="fade")
-        p Es la etapa donde se diseña el proyecto audiovisual, en primer lugar, se escribe la historia a contar, posterior a ello se realiza el guion y el #[storyboard off], esta fase permitirá tener la claridad de los espacios físicos donde se desarrollará el contexto, los recursos técnicos, personal, financiación; lo primero es tener algo que contar, es llevar una experiencia, contar una historia o desarrollar una idea producto de la imaginación y poderla plasmar en el formato. El creador o guionista debe tener claro el inicio del primer guion, el cual por lo general está escrito, en este se plasman qué necesidades artísticas, técnicas y narrativas se requieren para el desarrollo de la preproducción, de igual forma se debe tener claro todo el tema de recurso económico, el gasto pertinente de este y el diseño de un cronograma de actividades por semana que podrá variar de acuerdo con la ejecución del proceso. 
+        p Es la etapa donde se diseña el proyecto audiovisual, en primer lugar, se escribe la historia a contar, posterior a ello se realiza el guion y el #[em storyboard], esta fase permitirá tener la claridad de los espacios físicos donde se desarrollará el contexto, los recursos técnicos, personal, financiación; lo primero es tener algo que contar, es llevar una experiencia, contar una historia o desarrollar una idea producto de la imaginación y poderla plasmar en el formato. El creador o guionista debe tener claro el inicio del primer guion, el cual por lo general está escrito, en este se plasman qué necesidades artísticas, técnicas y narrativas se requieren para el desarrollo de la preproducción, de igual forma se debe tener claro todo el tema de recurso económico, el gasto pertinente de este y el diseño de un cronograma de actividades por semana que podrá variar de acuerdo con la ejecución del proceso. 
 
     .row.justify-content-center(data-aos="fade").mb-5
       .col-lg-8
@@ -369,7 +369,7 @@
           .col
             p.mb-0 #[strong En pocas palabras, la preproducción se liga a los recursos humanos, técnicos y económicos de una puesta en marcha clara y concreta.]
         .cajon.cjn--paleBlue.p-4.mb-4
-          p.mb-0 Teniendo en cuenta todo lo anteriormente mencionado se determina cuál es el enfoque que se le va a dar a la preproducción, esto permitirá diseñar el guion técnico y el #[storyboard off]. 
+          p.mb-0 Teniendo en cuenta todo lo anteriormente mencionado se determina cuál es el enfoque que se le va a dar a la preproducción, esto permitirá diseñar el guion técnico y el #[em storyboard ]. 
         p Teniendo en cuenta lo anterior se puede ahora conocer qué es un guion: 
       .col-lg-4.d-none.d-lg-flex(data-aos="zoom-in")
         figure
@@ -378,7 +378,7 @@
 
     .row(data-aos="fade").mb-4
       .col-auto
-        h3.custom-H3 El Guion
+        h3.custom-H3 El guion
 
     .bg_img_01.mb-5
       .row.justify-content-center.mb-5
@@ -458,7 +458,7 @@
 
     .row.mb-4
       .col-auto
-        h3.custom-H3 ¿Qué es un #[storyboard off]?
+        h3.custom-H3 ¿Qué es un #[em storyboard]?
 
     figure(data-aos="fade")
       img(src="@/assets/curso/temas/t2/t2_35.png", alt="alt")
@@ -467,7 +467,7 @@
         .cstmTitleCrd
           p.mb-0 Es un conjunto de ilustraciones, desplegadas de forma secuencial organizadamente, dándole estructura a una producción, la cual se puede utilizar para previsualizar una animación o proyectar la estructura de la misma, hace parte de la preproducción del proyecto audiovisual, para realizar esta acción su guion debe estar previamente finalizado permitiendo la presentación de la historia de forma visual y espacial.
 
-    h5(data-aos="fade").mb-5 Ventajas de un #[storyboard off]:
+    h5(data-aos="fade").mb-5 Ventajas de un #[em storyboard]:
 
     .row.justify-content-center.mb-5
       .col-lg-3.col-8.mb-4.mb-lg-0(data-aos="fade")
@@ -480,7 +480,7 @@
         .crd.bg--gray.brad_02.shadow.hg-100.p-4
           figure.mb-4
             img(src="@/assets/curso/temas/t2/t2_37.svg", alt="alt").img90.m-auto
-          p.text-center.mb-0 #[strong Ahorrar tiempo:] aunque requiere tiempo hacer un #[storyboard off], se recupera perfectamente al reducir el tiempo de procesamiento de información si no se tuviera plasmadas de manera visual las acciones.
+          p.text-center.mb-0 #[strong Ahorrar tiempo:] aunque requiere tiempo hacer un #[em storyboard], se recupera perfectamente al reducir el tiempo de procesamiento de información si no se tuviera plasmadas de manera visual las acciones.
 
       .col-lg-3.col-8.mb-4.mb-lg-0(data-aos="fade")
         .crd.bg--gray.brad_02.shadow.hg-100.p-4
@@ -494,21 +494,21 @@
             img(src="@/assets/curso/temas/t2/t2_39.svg", alt="alt").img90.m-auto
           p.text-center.mb-0 #[strong Asegurar la continuidad:] viendo de manera simplificada cada viñeta nos hace notar mejor las localizaciones, movimientos y ejes de la historia.
 
-    h5(data-aos="fade").mb-5 Cómo hacer un #[storyboard off]:
+    h5(data-aos="fade").mb-5 Cómo hacer un #[em storyboard]:
 
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-4.mb-lg-0(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/t2/t2_42.svg", alt="alt")
       .col-lg-8
-        p Para la creación de un #[storyboard off] se deben tener en cuenta diversos factores y recursos tales como, tiempo para la creación de la creación y diseño de ilustraciones, los recursos humanos y tecnológicos y qué tanto se va extender la producción, esto con el fin de llevar la secuencia clara de las ideas plasmadas en el guion.
+        p Para la creación de un #[em storyboard] se deben tener en cuenta diversos factores y recursos tales como, tiempo para la creación de la creación y diseño de ilustraciones, los recursos humanos y tecnológicos y qué tanto se va extender la producción, esto con el fin de llevar la secuencia clara de las ideas plasmadas en el guion.
 
         .row.mb-5(data-aos="fade")
           .col-auto.d-none.d-lg-flex
             figure
               img(src="@/assets/curso/temas/recursos/rectangle_01.svg", alt="alt").img90
           .col 
-            p.mb-0 #[strong Los #[storyboards off] se pueden dividir en etapas las cuales son:]
+            p.mb-0 #[strong Los #[em storyboards] se pueden dividir en etapas las cuales son:]
 
         .row.justify-content-center
           .col-lg-6(data-aos="flip-left").mb-4.mb-lg-0
@@ -522,7 +522,7 @@
                 img(src="@/assets/curso/temas/t2/t2_41.svg", alt="alt").img65
               p.mb-0 #[strong Narrativa audiovisual:] se deben seleccionar adecuadamente los movimientos de cámara y planos con los cuales se van a realizar las tomas. 
 
-    h5.mb-5.mb-lg-2 Algunos consejos sobre cómo hacer un #[storyboard off]: 
+    h5.mb-5.mb-lg-2 Algunos consejos sobre cómo hacer un #[em storyboard]: 
 
     .row.justify-content-between.align-items-center.mb-5
       .col-lg-7(data-aos="fade").mb-4.mb-lg-0
@@ -537,7 +537,7 @@
           .hr--line
           li
             i.fa-li.fas.fa-pen-square.clr--orange
-            | Los #[storyboards off] pueden ser horizontales o verticales.
+            | Los #[em storyboards] pueden ser horizontales o verticales.
           .hr--line
           li
             i.fa-li.fas.fa-pen-square.clr--orange
@@ -566,7 +566,7 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h3.mb-1 Los planos narrativos para comic, #[storyboard off] o ilustracion
+              h3.mb-1 Los planos narrativos para comic, #[em storyboard] o ilustracion
               p.mb-0 Estimado aprendiz, se puede observar el siguiente video para reforzar el nuevo conocimiento sobre planos en el lenguaje audiovisual.
             .col-sm-auto
               a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=AVLz70yZAb0" target="_blank")

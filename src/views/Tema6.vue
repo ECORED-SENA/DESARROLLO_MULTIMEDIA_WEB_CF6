@@ -423,7 +423,7 @@
             figure
               img(src="@/assets/curso/temas/t6/t6_26.png", alt="alt").img150
           .col
-            p Es la capacidad que se le puede conferir al usuario para realizar la #[em configure] del producto multimedia de acuerdo con la necesidad y el uso que le va a proporcionar. El usuario debe poder modificar características y tomar decisiones sobre el producto.
+            p Es la capacidad que se le puede conferir al usuario para realizar la configuración del producto multimedia de acuerdo con la necesidad y el uso que le va a proporcionar. El usuario debe poder modificar características y tomar decisiones sobre el producto.
             p.mb-0 En la imagen se observa como el usuario puede configurar la forma de presentar una temática utilizando la herramienta ofimática de PowerPoint. En este caso el recuadro naranja muestra como este puede tomar el control sobre la forma de pasar las diapositivas en la que debe marcar la opción de repetir el ciclo hasta presionar ESC, mostrar sin narración o sin animación. Este tipo de interacción proporciona más confianza al transferir al usuario el poder de uso del producto de acuerdo con su necesidad. 
 
     .tarjeta.color-secundario.p-3(data-aos="zoom-in")

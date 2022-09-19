@@ -211,7 +211,7 @@
             ul.fa-ul
               li.mb-3
                 i.fa-li.fas.fa-pen-square.clr--orange
-                | #[strong Títulos y Subtítulos] 
+                | #[strong Títulos y subtítulos] 
               li
                 i.fa-li.fas.fa-pen-square.clr--orange
                 | #[strong Gráficas] 
@@ -254,7 +254,7 @@
                     p.mb-0 Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video.
                   .col-sm-auto
                     a.boton.color-acento-botones.px-4(href="https://www.youtube.com/watch?v=X8kbrAzV6BM" target="_blank")
-                      span.clr--base ver 
+                      span.clr--base Ver 
                       i.clr--base.fas.fa-link
 
     separador

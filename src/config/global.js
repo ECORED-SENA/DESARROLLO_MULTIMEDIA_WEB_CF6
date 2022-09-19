@@ -164,7 +164,7 @@ export default {
         nombreRuta: 'tema6',
         icono: 'far fa-file-alt',
         numero: '6',
-        titulo: 'Experiencia de Usuario (UX)',
+        titulo: 'Experiencia de usuario (UX)',
         desarrolloContenidos: true,
       },
     ],

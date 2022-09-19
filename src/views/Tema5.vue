@@ -101,7 +101,7 @@
           figure
             img(src="@/assets/curso/temas/t5/t5_04.svg", alt="alt").img90
         .col.py-4       
-          p.mb-0 El exceso de detalles, objetos de color e imágenes, pueden ocasionar muchas dificultades en la construcción del mockup y en la fase de codificación del producto, además de prolongar el tiempo y los costos de desarrollo.
+          p.mb-0 El exceso de detalles, objetos de color e imágenes, pueden ocasionar muchas dificultades en la construcción del #[em mockup] y en la fase de codificación del producto, además de prolongar el tiempo y los costos de desarrollo.
 
     .crd.crd--avatarH.paleYellow.hg-100.mb-4(data-aos="zoom-in")
       .row.pe-4
@@ -202,7 +202,7 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h4.mb-1 Mockups gratis: ¿Qué son los #[em mockups], dónde los puedes descargar GRATIS y cómo usarlos?
+              h4.mb-1 #[em Mockups] gratis: ¿Qué son los #[em mockups], dónde los puedes descargar GRATIS y cómo usarlos?
               p.mb-0 Estimado aprendiz, a continuación lo invitamos a consultar un video con el fin de profundizar en el proceso de la creación de <em>wireframes</em>.             
             .col-sm-auto
               a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=crw3hO6VX4IPor" target="_blank")
