@@ -299,7 +299,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/RosEDzeLrX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
 
     h4(data-aos="fade").mb-5 Movimiento de los lentes
 
@@ -501,9 +501,9 @@
         figure
           img(src="@/assets/curso/temas/t2/t2_42.svg", alt="alt")
       .col-lg-8
-        p Para la creación de un #[em storyboard] se deben tener en cuenta diversos factores y recursos tales como, tiempo para la creación de la creación y diseño de ilustraciones, los recursos humanos y tecnológicos y qué tanto se va extender la producción, esto con el fin de llevar la secuencia clara de las ideas plasmadas en el guion.
+        p.mb-4 Para la creación de un #[em storyboard] se deben tener en cuenta diversos factores y recursos tales como, tiempo para la creación de la creación y diseño de ilustraciones, los recursos humanos y tecnológicos y qué tanto se va extender la producción, esto con el fin de llevar la secuencia clara de las ideas plasmadas en el guion.
 
-        .row.mb-5(data-aos="fade")
+        .row.mb-2(data-aos="fade")
           .col-auto.d-none.d-lg-flex
             figure
               img(src="@/assets/curso/temas/recursos/rectangle_01.svg", alt="alt").img90
@@ -511,16 +511,34 @@
             p.mb-0 #[strong Los #[em storyboards] se pueden dividir en etapas las cuales son:]
 
         .row.justify-content-center
-          .col-lg-6(data-aos="flip-left").mb-4.mb-lg-0
-            .numerCard(data-number="01").hg-100.p-4
-              figure.mb-3
-                img(src="@/assets/curso/temas/t2/t2_40.svg", alt="alt").img65
-              p.mb-0 #[strong Narrativa textual:] hace referencia a tener el guion terminado fraccionándolo en las partes que sean necesarias para su desarrollo.
-          .col-lg-6(data-aos="flip-left").mb-4.mb-lg-0
-            .numerCard(data-number="02").hg-100.p-4
-              figure.mb-3
-                img(src="@/assets/curso/temas/t2/t2_41.svg", alt="alt").img65
-              p.mb-0 #[strong Narrativa audiovisual:] se deben seleccionar adecuadamente los movimientos de cámara y planos con los cuales se van a realizar las tomas. 
+          .col-lg-12.col-10
+            SlyderF(columnas="col-12 col-xl-6")
+              .numerCard(data-number="01").hg-100.p-4
+                figure.mb-3
+                  img(src="@/assets/curso/temas/t2/t2_40.svg", alt="alt").img65
+                p.mb-0 #[strong Narrativa textual:] hace referencia a tener el guion terminado fraccionándolo en las partes que sean necesarias para su desarrollo.
+
+              .numerCard(data-number="02").hg-100.p-4
+                figure.mb-3
+                  img(src="@/assets/curso/temas/t2/t2_41.svg", alt="alt").img65
+                p.mb-0 #[strong Narrativa audiovisual:] se deben seleccionar adecuadamente los movimientos de cámara y planos con los cuales se van a realizar las tomas.   
+
+              .numerCard(data-number="03").hg-100.p-4
+                figure.mb-3
+                  img(src="@/assets/curso/temas/t2/t2_40.svg", alt="alt").img65
+                p.mb-0 #[strong Thumbnails:] son los dibujos de tamaño pequeño, los cuales son diseñados por los realizados que desarrollan las secuencias.   
+
+              .numerCard(data-number="04").hg-100.p-4
+                figure.mb-3
+                  img(src="@/assets/curso/temas/t2/t2_41.svg", alt="alt").img65
+                p.mb-0 #[strong Versión de referencia:] es la estructura temporal de los contenidos diseñados, esta es muy detallada y su tamaño es mas grande que los thumbnails.
+
+              .numerCard(data-number="05").hg-100.p-4
+                figure.mb-3
+                  img(src="@/assets/curso/temas/t2/t2_40.svg", alt="alt").img65
+                p.mb-0 #[strong Versión fija:] son las imágenes finales ya con el movimiento previo de cada ánade ellas (animatic es una forma de darle vida a los storyboard), hacen un conjunto con los sonidos y el guión técnico. Aquí se puede realizar una prueba con el fín de evitar errores al momento de presentar la producción. 
+
+            
 
     h5.mb-5.mb-lg-2 Algunos consejos sobre cómo hacer un #[em storyboard]: 
 
