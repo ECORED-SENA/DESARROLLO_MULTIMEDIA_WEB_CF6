@@ -31,8 +31,8 @@
       .col-auto.d-none.d-lg-flex
         figure
           img(src="@/assets/curso/temas/recursos/rectangle_01.svg", alt="alt").img90
-      .col
-        p.mb-0 Se destacan y se toman como referencia seis (6) fundamentos que permiten al diseñador transmitir ideas y conceptos eficaces, potenciando la comunicación del mensaje visual, los cuales son:
+      .col      
+        p.mb-0 #[strong Se destacan y se toman como referencia seis (6) fundamentos que permiten al diseñador transmitir ideas y conceptos eficaces, #[span.hl--blue potenciando la comunicación del mensaje visual, los cuales son:]]
 
     .slyderBg_01.py-5.p-4(data-aos="fade") 
       SlyderA(tipo="b")
@@ -100,7 +100,7 @@
           .bloque-texto-a__texto.p-4
             p.mb-0 Lo siguientes son los elementos visuales más importantes para la creación de contenidos gráficos en diseño:
 
-    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")(data-aos="fade") 
+    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--acordeon")(data-aos="fade") 
       .row(titulo="La línea").p-4
         .col-lg-8          
           p En el entorno del diseño se puede definir que la línea es el elemento visual elemental, es una sucesión de puntos conectados el uno del otro generando una trayectoria; están determinadas por su grosor, textura y estilo, de igual forma por su movimiento y dirección. 

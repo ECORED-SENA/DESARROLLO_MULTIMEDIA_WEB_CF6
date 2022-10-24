@@ -22,49 +22,55 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7
-        .slyderBg_02.pt-5.p-4(data-aos="fade") 
+        .slyderBg_02(data-aos="fade") 
           SlyderA(tipo="b")
-            .row.justify-content-around.cardNumber(data-cardNumber="01")
-              .col-lg-8.mb-2.mb-lg-0                                
-                p Investigar previamente al cliente y a los usuarios para conocer más acerca de ellos, sus necesidades, objetivos y expectativas respecto del producto que se va a implementar. Para ello es importante utilizar las técnicas de recolección de información vistas anteriormente.      
+            .row.justify-content-around.p-4               
+              .col-xl-8.mb-2.mb-lg-0    
+                .cardNumber(data-cardNumber="01")                        
+                  p.ps-4.pt-3 Investigar previamente al cliente y a los usuarios para conocer más acerca de ellos, sus necesidades, objetivos y expectativas respecto del producto que se va a implementar. Para ello es importante utilizar las técnicas de recolección de información vistas anteriormente.      
               .col-auto
                 figure
                   img(src='@/assets/curso/temas/t6/t6_28.svg', alt='').img150.m-auto
 
-            .row.justify-content-around.cardNumber(data-cardNumber="02")
-              .col-lg-8.mb-2.mb-lg-0                                
-                p Realizar el benchmarking del producto a desarrollar; el cual consiste en compararlo con la competencia para determinar en qué aspectos se puede diferenciar de esta y así poder optimizarlo proporcionándole el valor agregado para los usuarios.      
+            .row.justify-content-around.p-4               
+              .col-xl-8.mb-2.mb-lg-0    
+                .cardNumber(data-cardNumber="02")                        
+                  p.ps-4.pt-3 Realizar el benchmarking del producto a desarrollar; el cual consiste en compararlo con la competencia para determinar en qué aspectos se puede diferenciar de esta y así poder optimizarlo proporcionándole el valor agregado para los usuarios.        
               .col-auto
                 figure
                   img(src='@/assets/curso/temas/t6/t6_29.svg', alt='').img150.m-auto
 
-            .row.justify-content-around.cardNumber(data-cardNumber="03")
-              .col-lg-8.mb-2.mb-lg-0                                
-                p Comprender cuál es el contexto de uso que le proporcionaran los usuarios al producto y así poder definir el alcance y objetivos que tendrá, los requisitos de diseño y desarrollo necesario para su implementación.      
+            .row.justify-content-around.p-4               
+              .col-xl-8.mb-2.mb-lg-0    
+                .cardNumber(data-cardNumber="03")                        
+                  p.ps-4.pt-3 Comprender cuál es el contexto de uso que le proporcionaran los usuarios al producto y así poder definir el alcance y objetivos que tendrá, los requisitos de diseño y desarrollo necesario para su implementación.       
               .col-auto
                 figure
                   img(src='@/assets/curso/temas/t6/t6_30.svg', alt='').img150.m-auto
 
-            .row.justify-content-around.cardNumber(data-cardNumber="04")
-              .col-lg-8.mb-2.mb-lg-0                                
-                p Realizar el diseño conceptual del producto multimedia, partiendo de las actividades anteriores para establecer correctamente la estructura y funcionalidades que ofrecerá y el valor que aportará en cuanto su uso y accesibilidad.      
+            .row.justify-content-around.p-4               
+              .col-xl-8.mb-2.mb-lg-0    
+                .cardNumber(data-cardNumber="04")                        
+                  p.ps-4.pt-3 Realizar el diseño conceptual del producto multimedia, partiendo de las actividades anteriores para establecer correctamente la estructura y funcionalidades que ofrecerá y el valor que aportará en cuanto su uso y accesibilidad.       
               .col-auto
                 figure
-                  img(src='@/assets/curso/temas/t6/t6_31.svg', alt='').img150.m-auto
+                  img(src='@/assets/curso/temas/t6/t6_31.svg', alt='').img150.m-auto  
 
-            .row.justify-content-around.cardNumber(data-cardNumber="05")
-              .col-lg-8.mb-2.mb-lg-0                                
-                p Realizar el diseño de la interfaz del producto para determinar cómo lo vería el usuario cuando esté terminado. Para ello se utilizan las técnicas Wireframe y Mockup vistas anteriormente.      
+            .row.justify-content-around.p-4               
+              .col-xl-8.mb-2.mb-lg-0    
+                .cardNumber(data-cardNumber="05")                        
+                  p.ps-4.pt-3 Realizar el diseño de la interfaz del producto para determinar cómo lo vería el usuario cuando esté terminado. Para ello se utilizan las técnicas Wireframe y Mockup vistas anteriormente.      
               .col-auto
                 figure
-                  img(src='@/assets/curso/temas/t6/t6_32.svg', alt='').img150.m-auto
+                  img(src='@/assets/curso/temas/t6/t6_32.svg', alt='').img150.m-auto   
 
-            .row.justify-content-around.cardNumber(data-cardNumber="06")
-              .col-lg-8.mb-2.mb-lg-0                                
-                p Aplicar pruebas de usabilidad del producto con el fin de evaluar el uso que el usuario le dará al producto de acuerdo con el alcance y los objetivos definidas por el cliente.     
+            .row.justify-content-around.p-4               
+              .col-xl-8.mb-2.mb-lg-0    
+                .cardNumber(data-cardNumber="06")                        
+                  p.ps-4.pt-3 Aplicar pruebas de usabilidad del producto con el fin de evaluar el uso que el usuario le dará al producto de acuerdo con el alcance y los objetivos definidas por el cliente.      
               .col-auto
                 figure
-                  img(src='@/assets/curso/temas/t6/t6_33.svg', alt='').img150.m-auto
+                  img(src='@/assets/curso/temas/t6/t6_33.svg', alt='').img150.m-auto             
 
       .col-lg-5.d-none.d-lg-flex
         figure
@@ -128,7 +134,7 @@
                 .row.mb-4
                   .col-auto
                     figure
-                      img(src="@/assets/curso/temas/t6/t6_05.svg", alt="alt").img90
+                      img(src="@/assets/curso/temas/t6/t6_07.svg", alt="alt").img90
                   .col
                     p.mb-0 Permite realizar la evaluación del prototipo diseñado, tanto con el cliente como con el usuario. Con el primero se comprobará si el producto cumple con el alcance y los objetivos definidos y con los segundos se comprobará si satisface las necesidades de uso. 
 
@@ -139,7 +145,7 @@
         .row.justify-content-center.align-items-center
           .col-auto
             figure
-              img(src="@/assets/curso/temas/t2/t2_24.svg", alt="alt")
+              img(src="@/assets/curso/temas/t2/t2_24.png", alt="alt")
           .col
             p.mb-0 El diseño de la Experiencia de Usuario -UX-, es un proceso iterativo que debe realizarse cuantas veces sea necesario hasta que cliente y usuarios satisfagan las expectativas que tienen con el producto. 
 
@@ -198,114 +204,114 @@
 
     p(data-aos="fade").mb-5 La usabilidad como se mencionó antes no es más que la facilidad de uso del producto para el usuario. Según (Ronda 2013) citando a Nielsen (2017) para lograr la usabilidad se deben cumplir con algunos principios:
 
-    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")(data-aos="fade")
-      .row(titulo="Visibilidad del estado del sistema").p-4
-        .col-lg-8          
+    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--acordeon")(data-aos="fade")
+      .row.justify-content-center(titulo="Visibilidad del estado del sistema").p-4
+        .col-lg-8.mb-4.mb-lg-0         
           p El usuario debe recibir una retroalimentación del estado del producto en cada instante para saber qué pasa cuando interactúa con él, por ejemplo si está guardando, cargando, o si hay algún tipo de error. 
           p.mb-0 En la imagen anterior se observan los mensajes que visualiza un usuario cuando sube un archivo correctamente #[em SUCCESS!] y puede cerrar el proceso CLOSE o cuando hubo algún problema en esta acción #[em ERROR!] Y debe intentar de nuevo #[em TRY AGAIN]. 
      
-        .col-lg-4.col-8
+        .col-lg-4.col-12
           figure
             img(src='@/assets/curso/temas/t6/t6_08.png', alt='')  
 
-      .row(titulo="Relación del producto con el mundo real").p-4
-        .col-lg-8          
+      .row.justify-content-center(titulo="Relación del producto con el mundo real").p-4
+        .col-lg-8.mb-4.mb-lg-0          
           p Se debe brindar al usuario toda la información necesaria para que no tenga dudas o cometa errores en la acción que va a realizar.
           p.mb-0 Por ejemplo cuando un usuario está haciendo una compra tipo crédito en línea, se le debe indicar qué datos debe diligenciar y en donde los encuentra en su tarjeta como se muestra en la imagen, ya que se debe partir de que todos los internautas no son ágiles en el manejo de estos sistemas. 
      
-        .col-lg-4.col-8
+        .col-lg-4.col-12
           figure
             img(src='@/assets/curso/temas/t6/t6_09.png', alt='')  
 
-      .row(titulo="Libertad al usuario").p-4
-        .col-lg-8          
+      .row.justify-content-center(titulo="Libertad al usuario").p-4
+        .col-lg-8.mb-4.mb-lg-0          
           p El producto debe permitir que el usuario cancele un proceso que estaba realizando sin finalizarlo, de tal manera que esta acción no represente compromisos o penalizaciones que puedan llegar a afectarlo en cualquier aspecto de su estado emocional o material. 
           p En la imagen se visualiza como un usuario a abortado la compra en el momento en que estaba digitando el número de la tarjeta de crédito. 
           p.mb-0 Esta libertad que le da el producto multimedia permite que el usuario tenga el control y evita que se sienta encasillado en él.
      
-        .col-lg-4.col-8
+        .col-lg-4.col-12
           figure
             img(src='@/assets/curso/temas/t6/t6_10.png', alt='')
 
-      .row(titulo="Consistencia").p-4
-        .col-lg-8          
+      .row.justify-content-center(titulo="Consistencia").p-4
+        .col-lg-8.mb-4.mb-lg-0         
           p Utilizar un patrón de diseño de los elementos del producto no solo le proporciona coherencia sino claridad y facilidad de uso a la hora de ser utilizado por el usuario. Por ejemplo cuando se diseñan botones se debe colocar del mismo color y tamaño.
 
           p En la imagen se puede observar que los botones definidos tienen el mismo tamaño y se han aplicado colores específicos dependiendo de las acciones que realizan; por ejemplo el rojo indica el proceso de contactar al cliente, el verde implica una acción de descarga, el azul el hecho de leer mas sobre algo, el fucsia ingresar a un sistema y el naranja realizar una búsqueda.
 
           p.mb-0 Estos patrones son fácilmente asimilados por los usuarios evitando que se confunda al usar el producto.  
      
-        .col-lg-4.col-8
+        .col-lg-4.col-12
           figure
             img(src='@/assets/curso/temas/t6/t6_11.png', alt='') 
 
-      .row(titulo="Prevención de errores").p-4
-        .col-lg-8          
+      .row.justify-content-center(titulo="Prevención de errores").p-4
+        .col-lg-8.mb-4.mb-lg-0         
           p Se deben dar instrucciones claras a los usuarios sobre cómo manejar el producto y las acciones que deben realizar para evitar su mal uso y posteriormente el abandono, debido a los errores que puede arrojar.          
 
           p.mb-0 En la imagen se observa como un sistema le indica al usuario la forma de crear una contraseña para registrarse en el producto.   
      
-        .col-lg-4.col-8
+        .col-lg-4.col-12
           figure
             img(src='@/assets/curso/temas/t6/t6_12.png', alt='')
 
-      .row(titulo="Recordación").p-4
-        .col-lg-8          
+      .row.justify-content-center(titulo="Recordación").p-4
+        .col-lg-8.mb-4.mb-lg-0         
           p El producto multimedia debe proporcionar toda la información posible en aquellos momentos donde el usuario necesita recordar los detalles claves que le permitan confirmar la decisión que está a punto de tomar.       
 
           p En la imagen se visualiza el momento en que se debe realizar el pago de un producto/servicio sin recordarle al cliente los detalles de su compra y exigiendo que este eche mano de su memoria para finalmente tomar la decisión de realizarla.          
 
           p.mb-0 Este aspecto de no recordación es común en los productos y no es considerado como un error, pero si se mira desde el punto de vista del diseño, incluir este estos detalles no solo hacen más funcional el sistema, sino que puede evitar una incorrecta toma de decisiones al depender solo de la memoria. 
      
-        .col-lg-4.col-8
+        .col-lg-4.col-12
           figure
             img(src='@/assets/curso/temas/t6/t6_13.png', alt='')  
 
-      .row(titulo="Flexibilidad y eficiencia de uso").p-4
-        .col-lg-8          
+      .row.justify-content-center(titulo="Flexibilidad y eficiencia de uso").p-4
+        .col-lg-8.mb-4.mb-lg-0          
           p Se refiere a la capacidad de utilización del producto independientemente del tipo de usuario; es decir si a este se le facilita el uso de las herramientas tecnológicas o si por el contrario no le es sencillo ni familiar hacerlo.       
 
           p En la imagen se sugiere un motor de búsqueda que solo contiene una barra en forma de caja donde el usuario introduce las palabras o las temáticas que quiere consultar independientemente de si tiene habilidades o no en el manejo del sistema de información.           
 
           p.mb-0 Si el internauta es lo suficientemente ágil y avanzado en el uso de estas aplicaciones podrá hacer búsquedas avanzadas que le permitan filtrar la información que necesita.
      
-        .col-lg-4.col-8
+        .col-lg-4.col-12
           figure
             img(src='@/assets/curso/temas/t6/t6_14.png', alt='')
 
-      .row(titulo="Diseño minimalista").p-4
-        .col-lg-8          
+      .row.justify-content-center(titulo="Diseño minimalista").p-4
+        .col-lg-8.mb-4.mb-lg-0          
           p Es importante no saturar de información al usuario del producto, mostrándole contenido innecesario que lo distraiga y lo desvíe del objetivo de utilización del producto.       
 
           p En la imagen se observa la pantalla inicial de una agencia de viajes en la que se presenta al usuario dos barras o cajas en la que debe introducir la fecha de inicio de su viaje y el número de habitaciones que necesita de acuerdo con el número de personas que van a viajar.          
 
           p.mb-0 Esta presentación es sencilla y no se presta para confusiones, puesto que solicita la información que necesita la empresa para diligenciar el pedido del cliente.
      
-        .col-lg-4.col-8
+        .col-lg-4.col-12
           figure
             img(src='@/assets/curso/temas/t6/t6_15.png', alt='') 
 
-      .row(titulo="Reconocer y corregir errores").p-4
-        .col-lg-8          
+      .row.justify-content-center(titulo="Reconocer y corregir errores").p-4
+        .col-lg-8.mb-4.mb-lg-0         
           p Proporciona información al usuario de lo que está generando errores en la utilización del producto multimedia, y le brinda recomendaciones de las acciones que puede realizar para un buen uso del sistema.       
 
           p La imagen presenta un mensaje del producto multimedia, el cual indica al usuario que el programa no se puede instalar porque falta el archivo MSVCR100.dll y también presenta la recomendación para solventar el problema, realizando la reinstalación del aplicativo de nuevo.         
 
           p.mb-0 En este ejemplo se muestra con claridad la acción que el usuario puede ejecutar para la corrección de lo que probablemente está presentando la falla, ya sea por una mala instalación o por un inconveniente en el dispositivo donde se está llevando a cabo el proceso.
      
-        .col-lg-4.col-8
+        .col-lg-4.col-12
           figure
             img(src='@/assets/curso/temas/t6/t6_16.png', alt='')
 
-      .row(titulo="Ayuda y documentación").p-4
-        .col-lg-8          
+      .row.justify-content-center(titulo="Ayuda y documentación").p-4
+        .col-lg-8.mb-4.mb-lg-0         
           p Se deben detectar las dudas más comunes de los usuarios cuando está usando el producto multimedia e incluir la información necesaria para que el mismo pueda encontrar la manera de resolverlas. De esta forma el producto se hace auto gestionable.     
 
           p En la imagen se muestra como la empresa presenta y documenta las ayudas necesarias para que el usuario pueda realizar los procesos y funcionalidades del producto multimedia sin que necesite una ayuda extra.         
 
           p.mb-0 En este caso si hace clic en Mis pedidos encontrará la información para llevar a cabo el seguimiento de su pedido, realice una devolución o vuelva a la tienda para hacer otra compra.
      
-        .col-lg-4.col-8
+        .col-lg-4.col-12
           figure
             img(src='@/assets/curso/temas/t6/t6_17.png', alt='')  
 
@@ -329,7 +335,7 @@
 
           p Estas pautas o criterios se agrupan en cuatro (4) principios: 
 
-      TabsC.color-primario(data-aos="fade")
+      TabsC.color-acento-botones(data-aos="fade")
         .py-3.py-md-4(titulo="Perceptible")
           .row.justify-content-center.align-items-center
             .col-lg-9.mb-4.mb-lg-0
@@ -343,7 +349,7 @@
 
         .py-3.py-md-4(titulo="Operable")
           .row.justify-content-center.align-items-center
-            .col-lg-9
+            .col-lg-9.mb-4.mb-lg-0
               h4 Operable
               p El producto debe proporcionar facilidad de interacción y navegación a los usuarios a través del mouse o el teclado. La interfaz o pantalla que se le coloque al usuario para acceder al producto multimedia deben permitirle ir al lugar que quiera.
 

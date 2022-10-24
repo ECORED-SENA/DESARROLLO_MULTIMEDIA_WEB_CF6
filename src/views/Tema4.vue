@@ -254,7 +254,7 @@
         .row.justify-content-center.align-items-center
           .col-auto
             figure
-              img(src="@/assets/curso/temas/t2/t2_24.svg", alt="alt")
+              img(src="@/assets/curso/temas/t2/t2_24.png", alt="alt")
           .col
             p.mb-0 #[strong En el video anterior se observa un repaso de los conceptos estudiados sobre #[em wireframe], lo que debe incluir un buen diseño de su estructura y la manera de comenzar fácilmente a construirlo. La herramienta utilizada es Figma con un componente basado en #[em Wireframe Kits], el cual puede instalarse en el PC en su versión libre. ] 
 

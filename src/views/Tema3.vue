@@ -22,12 +22,14 @@
           .col
             p El sistema de navegación se debe definir en el proceso de elaboración del diseño del proyecto antes de construirlo para evitar errores de organización, inversión de tiempo y sobrecostos. #[span.bold.clr--blue Este sistema se aplica en los proyectos que se relacionan con sitios web, puesto que se maneja un gran volumen de información y también se puede usar en proyectos que se enfocan en el desarrollo de productos que deben mostrar desempeño en sus funcionalidades, para lo cual es apropiada la construcción de un diseño de interacción (ID)], que consiste en incorporar elementos como cuadros de textos que al hacer el clic en la flecha hacia abajo despliegan opciones para seleccionar una de ellas o se colocan botones que cambian de color y producen sonidos al tener contacto con el usuario.
 
+    separador
+
     #t_3_1.titulo-segundo.color-acento-botones(data-aos="fade")
       h2 3.1 Tipos de navegación
 
     p(data-aos="fade").mb-5 Los sistemas de navegación están compuestos por enlaces que le permiten al usuario moverse a través de la estructura y contenido del producto. Dependiendo de esta forma de desplazamiento se puede clasificar en:
 
-    AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
+    AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--acordeon")
       .row.justify-content-center(titulo="Navegación jerárquica")
         .col-12
           p En este sistema de navegación, el producto desarrollado tiene un contenido principal el cual presenta varias opciones más específicas hacia las cuales se puede desplazar el usuario; se llama navegación jerárquica porque la información está organizada en forma de árbol con diferentes niveles de temas que pueden tener a su vez subtemas. 
@@ -104,8 +106,31 @@
 
       .row.justify-content-center(data-aos="zoom-in")
         .col-lg-10
-          figure
-            img(src="@/assets/curso/temas/t3/t3_08.svg", alt="alt")
+          table.cstm_table_01
+            thead
+              tr
+                td(style="width:15%;")
+                  figure
+                    img(src="@/assets/curso/temas/t3/t3_08A.svg", alt="alt").img120
+                td(style="width:85%;")
+                  | Nodo que representa el estado de un objeto, entidad o elemento del producto o proyecto multimedia.
+            tbody
+              tr
+                td
+                  figure
+                    img(src="@/assets/curso/temas/t3/t3_08B.svg", alt="alt").img120
+                td Estado inicial de un nodo
+              tr
+                td
+                  figure
+                    img(src="@/assets/curso/temas/t3/t3_08C.svg", alt="alt").img120
+                td Flecha que representa la transici&oacute;n de un estado a otro.
+              tr
+                td
+                  figure
+                    img(src="@/assets/curso/temas/t3/t3_08D.svg", alt="alt").img120
+                td Estado final del nodo
+          
 
     .cajon.cjn--paleBlue.p-4(data-aos="zoom-in").mb-5
       p.mb-0 #[strong Por ejemplo, si lo que se quiere es desarrollar un proyecto web para asignar citas médicas virtuales, el mapa de navegación a groso modo podría ser el siguiente:]

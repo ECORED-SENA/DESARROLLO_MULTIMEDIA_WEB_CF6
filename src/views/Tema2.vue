@@ -21,6 +21,8 @@
         figure
           img(src="@/assets/curso/temas/t2/t2_01.png", alt="alt")
 
+    separador
+
     #t_2_1.titulo-segundo.color-acento-botones(data-aos="fade") 
       h2 2.1 ¿Qué es el lenguaje audiovisual?
 
@@ -28,7 +30,7 @@
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
           figure
-            img(src="@/assets/curso/temas/t2/t2_02.svg", alt="alt")
+            img(src="@/assets/curso/temas/t2/t2_02.png", alt="alt")
         .col-lg-8
           .bloque-texto-a__texto.p-4
             p.mb-0 #[strong El lenguaje audiovisual es un sistema de comunicación que se fundamenta en la utilización de simbologías, las cuales se crean con un propósito autónomo permitiendo el desarrollo de un lenguaje propio que se enfoca en la comunicación de los contenidos creados, verbales y auditivos; estos pueden ser captados por los espectadores con facilidad y recordación dando comprensión y sentido a la pieza audiovisual, la cual debe transmitir emociones por intermedio de las imágenes utilizadas. Dichas emociones proyectan una idea clara de las imágenes en movimiento y un lenguaje sonoro.]
@@ -289,11 +291,28 @@
       .col-lg-10
         .row.justify-content-center
           .col-lg-6.mb-4.mb-lg-0
-            figure
-              img(src="@/assets/curso/temas/t2/t2_20.png", alt="alt")
-          .col-lg-6
-            figure
-              img(src="@/assets/curso/temas/t2/t2_21.png", alt="alt")
+            .bg--paleYellow.p-4.shadow
+              h4.text-center.mb-0 Movimientos de cámara
+            .bg--white.p-4.shadow
+              h4.text-center De rotación
+              figure.mb-4
+                img(src="@/assets/curso/temas/t2/t2_20.png", alt="alt")
+              h4.text-center De traslación
+              figure
+                img(src="@/assets/curso/temas/t2/t2_20A.png", alt="alt")
+
+          .col-lg-6.mb-4.mb-lg-0
+            .bg--paleYellow.p-4.shadow
+              h4.text-center.mb-0 Movimientos de lente (óptica)
+            .bg--white.p-4.shadow
+              h4.text-center Arcercamiento
+              figure.mb-4
+                img(src="@/assets/curso/temas/t2/t2_21.png", alt="alt")
+              h4.text-center Alejamiento
+              figure
+                img(src="@/assets/curso/temas/t2/t2_21A.png", alt="alt")
+
+          
 
     p(data-aos="fade").mb-5 Ahora, se puede revisar en qué consiste cada movimiento:
 
@@ -321,15 +340,24 @@
 
           p Los movimientos de lente más comunes y usados en los audiovisuales se denominan como:
 
-          figure(data-aos="zoom-in")
-            img(src="@/assets/curso/temas/t2/t2_22.png", alt="alt")
+          .row.justify-content-center
+            .col-lg-6.mb-4.mb-lg-0
+              figure(data-aos="zoom-in")
+                img(src="@/assets/curso/temas/t2/t2_22.png", alt="alt")
+              p.text-center #[em.bold Zoom in:] determina un movimiento de acercamiento.
+            .col-lg-6
+              figure(data-aos="zoom-in")
+                img(src="@/assets/curso/temas/t2/t2_22A.png", alt="alt")
+              p.text-center #[em.bold Zoom out:] determina un movimiento de alejamiento.
+
+          
       
         .row.justify-content-center(data-aos="zoom-in")
           .col-lg-10
             .row.justify-content-center.align-items-center
               .col-auto
                 figure
-                  img(src="@/assets/curso/temas/t2/t2_24.svg", alt="alt")
+                  img(src="@/assets/curso/temas/t2/t2_24.png", alt="alt")
               .col
                 p.mb-0 #[strong Existe una palabra que se escucha frecuentemente y es la profundidad de campo, esta se da al momento en que se determina la sección que se va tomar referente a un plano, aquí el zoom juega un papel importante, ya que es la forma en la que se puede resaltar la nitidez en contraste con el resto de la imagen.] 
 
@@ -525,17 +553,17 @@
 
               .numerCard(data-number="03").hg-100.p-4
                 figure.mb-3
-                  img(src="@/assets/curso/temas/t2/t2_40.svg", alt="alt").img65
+                  img(src="@/assets/curso/temas/t2/t2_41C.svg", alt="alt").img65
                 p.mb-0 #[strong Thumbnails:] son los dibujos de tamaño pequeño, los cuales son diseñados por los realizados que desarrollan las secuencias.   
 
               .numerCard(data-number="04").hg-100.p-4
                 figure.mb-3
-                  img(src="@/assets/curso/temas/t2/t2_41.svg", alt="alt").img65
+                  img(src="@/assets/curso/temas/t2/t2_41D.svg", alt="alt").img65
                 p.mb-0 #[strong Versión de referencia:] es la estructura temporal de los contenidos diseñados, esta es muy detallada y su tamaño es mas grande que los thumbnails.
 
               .numerCard(data-number="05").hg-100.p-4
                 figure.mb-3
-                  img(src="@/assets/curso/temas/t2/t2_40.svg", alt="alt").img65
+                  img(src="@/assets/curso/temas/t2/t2_41E.svg", alt="alt").img65
                 p.mb-0 #[strong Versión fija:] son las imágenes finales ya con el movimiento previo de cada ánade ellas (animatic es una forma de darle vida a los storyboard), hacen un conjunto con los sonidos y el guión técnico. Aquí se puede realizar una prueba con el fín de evitar errores al momento de presentar la producción. 
 
             

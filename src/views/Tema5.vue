@@ -11,7 +11,7 @@
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
           figure
-            img(src="@/assets/curso/temas/t5/t5_01.svg", alt="alt")
+            img(src="@/assets/curso/temas/t5/t5_01.png", alt="alt")
         .col-lg-8
           .bloque-texto-a__texto.p-4
             p.bold #[em Mockup] es una maqueta que representa la evolución del Wireframe de alta fidelidad, ya que es una composición gráfica más avanzada y completa que utiliza todos los elementos visuales posibles para producir un modelo a escala del producto multimedia, por lo que proporciona una buena idea de lo que será al final.<br><br>En los #[em mockup] se encuentran varios elementos:
@@ -62,7 +62,7 @@
         .row.justify-content-center.align-items-center
           .col-auto
             figure
-              img(src="@/assets/curso/temas/t2/t2_24.svg", alt="alt")
+              img(src="@/assets/curso/temas/t2/t2_24.png", alt="alt")
           .col
             p.mb-0 #[strong La figura anterior es un #[em mockup] que corresponde a una plantilla genérica], en la cual se puede observar los botones que proporcionan interactividad como #[strong #[em MORE INFO]] para ampliarle la información al usuario o los que aparecen en la parte superior para establecer contacto con el cliente a través de las redes sociales #[strong (Facebook, Twitter, Instagram)] o el correo electrónico #[strong (youremail@email.com)]. Igualmente se observa la funcionalidad de poder cambiar los textos fácilmente de lo que se desea comunicar; por ejemplo, el del #[em DELCIOUS MENU].  
 
@@ -214,7 +214,7 @@
         .row.justify-content-center.align-items-center
           .col-auto
             figure
-              img(src="@/assets/curso/temas/t2/t2_24.svg", alt="alt")
+              img(src="@/assets/curso/temas/t2/t2_24.png", alt="alt")
           .col
             p.mb-0 En el video anterior se observa #[strong cómo construir #[em mockups] utilizando fotos existentes y de libre descarga, en la herramienta de retoque de imágenes Photoshop. Sobre las fotos que se presentan se han incrustado elementos u objetos inteligentes prediseñados cuyo formato es PSD y de los cuales se puede obtener como resultado final un #[em mockup]], que en este caso es estático porque no permite la interacción de los usuarios, ya que su función es la de transmitir un mensaje de marca a un público objetivo definido por el cliente.
 
