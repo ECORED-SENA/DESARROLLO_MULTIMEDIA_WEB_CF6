@@ -88,7 +88,7 @@
               figure
                 img(src="@/assets/curso/temas/t2/t2_06.svg", alt="alt").img90
             .col-lg
-              p.mb-0 La estética se enfocado en suministrar las características que lleven a la estética visual, teniendo en cuenta lo bonito, lo agradable, lo armónico, lo sencillo y lo llamativo
+              p.mb-0 La estética se enfoca en suministrar las características que lleven a la estética visual, teniendo en cuenta lo bonito, lo agradable, lo armónico, lo sencillo y lo llamativo
 
           .row(numero="5" titulo="Elementos didácticos")
             .col-auto.mb-4.mb-lg-0
@@ -126,7 +126,7 @@
         figure
           img(src="@/assets/curso/temas/recursos/rectangle_01.svg", alt="alt").img90
       .col
-        p.mb-0 En el mundo del lenguaje audiovisual, existen varios tipos de planos, los cuales varían según el tipo de escenas, formatos y géneros; continuación, se mencionan cada uno de ellos:
+        p.mb-0 En el mundo del lenguaje audiovisual, existen varios tipos de planos, los cuales varían según el tipo de escenas, formatos y géneros; a continuación, se mencionan cada uno de ellos:
 
 
     .slyderBg_01.py-5.p-4.mb-5(data-aos="fade") 
@@ -237,7 +237,7 @@
         .crd.bg--paleGray.brad_01.p-5.hg-100
           figure.mb-2
             img(src="@/assets/curso/temas/t2/t2_18.svg", alt="alt").img65
-          p.mb-0 #[strong Generales:] conformados por el gran plano general, plano general.
+          p.mb-0 #[strong Generales:] conformados por el gran plano general y el plano general.
 
     p.mb-5(data-aos="fade")  #[strong Para llevar a cabo el encuadre audiovisual se deben tener en cuenta los siguientes aspectos:] 
 
@@ -408,7 +408,7 @@
       .col-auto
         h3.custom-H3 El guion
 
-    .bg_img_01.mb-5
+    .bg_img_01.mb-4
       .row.justify-content-center.mb-5
         .col-lg-4.col-8.mb-4.mb-lg-0(data-aos="zoom-in")
           figure
@@ -418,7 +418,9 @@
           .cajon.cjn--paleBlue.p-4.mb-4
             p.mb-0 #[strong “Texto en que se expone, con los detalles necesarios para su realización, el contenido de un filme o de un programa de radio o televisión.”]
 
-      h4(data-aos="fade") Pasos para desarrollar un guion:
+      h4(data-aos="fade") Pasos para desarrollar un guion
+
+    p.mb-4 En el momento de empezar a redactar un guion es importante tener en cuenta los siguientes pasos:
 
     .row.justify-content-center.mb-5
       .col-lg-4.mb-4.mb-lg-0(data-aos="zoom-in")
@@ -430,12 +432,12 @@
         .crd.bg--paleYellow.brad_01.p-5.hg-100
           figure.mb-2
             img(src="@/assets/curso/temas/t2/t2_30.svg", alt="alt").img120
-          p.mb-0 #[strong La sinopsis:] es una descripción detallada de la temática de producción, quienes hacen parte de la trama, en qué espacios se va a desarrollar y cuales con los y contextos de acuerdo con la historia de la producción.
+          p.mb-0 #[strong La sinopsis:] es una descripción detallada de la temática de producción, quiénes hacen parte de la trama, en qué espacios se va a desarrollar y cuales son los contextos de acuerdo con la historia de la producción.
       .col-lg-4.mb-4.mb-lg-0(data-aos="zoom-in")
         .crd.bg--paleGray.brad_01.p-5.hg-100
           figure.mb-2
             img(src="@/assets/curso/temas/t2/t2_31.svg", alt="alt").img120
-          p.mb-0 #[strong Tratamiento:] se realiza un pequeño documento de no más de tres hojas, y se describe claramente la idea, que personajes van a estar en la producción si estos se relacionan entre sí, y muy importante las locaciones.
+          p.mb-0 #[strong Tratamiento:] se realiza un pequeño documento de no más de tres hojas, y se describe claramente la idea, qué personajes van a estar en la producción, si estos se relacionan entre sí, y muy importante las locaciones.
 
     h4(data-aos="fade").mb-5 Tipos de guion
 
@@ -529,7 +531,7 @@
         figure
           img(src="@/assets/curso/temas/t2/t2_42.svg", alt="alt")
       .col-lg-8
-        p.mb-4 Para la creación de un #[em storyboard] se deben tener en cuenta diversos factores y recursos tales como, tiempo para la creación de la creación y diseño de ilustraciones, los recursos humanos y tecnológicos y qué tanto se va extender la producción, esto con el fin de llevar la secuencia clara de las ideas plasmadas en el guion.
+        p.mb-4 Para la creación de un #[em storyboard] se deben tener en cuenta diversos factores y recursos tales como, tiempo para la creación y diseño de ilustraciones, los recursos humanos y tecnológicos y qué tanto se va extender la producción, esto con el fin de llevar la secuencia clara de las ideas plasmadas en el guion.
 
         .row.mb-2(data-aos="fade")
           .col-auto.d-none.d-lg-flex
@@ -595,7 +597,7 @@
           .hr--line
           li
             i.fa-li.fas.fa-pen-square.clr--orange
-            | Saber que efector de sonido va a llevar la producción.
+            | Saber qué efector de sonido va a llevar la producción.
           .hr--line
           li
             i.fa-li.fas.fa-pen-square.clr--orange
@@ -669,7 +671,7 @@
 
           .row(numero="3" titulo="Desenlace o final")
             .col-12
-              p.mb-0 Es la parte final de todo texto narrativo; aquí ya se han resuelto todos los conflictos presentados en el nudo, también se da a conocer al público cual y como se dio la solución del conflicto planteado y como cada uno de los personajes terminan su actuar en la trama. Es importante mencionar que dependiendo del enfoque de la propuesta el texto narrativo, puede desencadenar alternativas de final; es decir, un final feliz, triste, trágico; de igual forma se puede dejar una brecha para dar continuidad a la propuesta o cerrarla definitivamente, a esto hace referencia una continuación (segunda parte) o simplemente un final cerrado sin continuidad.
+              p.mb-0 Es la parte final de todo texto narrativo; aquí ya se han resuelto todos los conflictos presentados en el nudo, también se da a conocer al público cuál y cómo se dio la solución del conflicto planteado y cómo cada uno de los personajes terminan su actuar en la trama. Es importante mencionar que dependiendo del enfoque de la propuesta el texto narrativo, puede desencadenar alternativas de final; es decir, un final feliz, triste, trágico; de igual forma se puede dejar una brecha para dar continuidad a la propuesta o cerrarla definitivamente, a esto hace referencia una continuación (segunda parte) o simplemente un final cerrado sin continuidad.
 
     h4(data-aos="fade") Elementos importantes en una narración
 

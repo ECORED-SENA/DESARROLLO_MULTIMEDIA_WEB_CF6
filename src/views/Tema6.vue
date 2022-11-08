@@ -12,7 +12,7 @@
         figure
           img(src="@/assets/curso/temas/t6/t6_01.svg", alt="alt")
       .col-lg-9(data-aos="fade")
-        p.mb-4 El término #[strong UX o #[em User Experience]] por sus siglas en inglés, significa Experiencia de Usuario y según la #[span.bold.clr--blue Norma ISO 9241-210:] UX es la percepción y respuesta de un usuario como resultado del uso anticipado de un producto, sistema o servicio, antes de que este salga al mercado. Para darle al producto un uso anticipado, su diseño debe estar centrado en el usuario, incorporando elementos visuales, textuales y de sonido de tal manera que la experiencia con éste permita la mayor interacción posible.
+        p.mb-4 El término #[strong UX o #[em User Experience]] por sus siglas en inglés, significa Experiencia de Usuario y según la #[span.bold.clr--blue Norma ISO 9241-210:] UX es la percepción y respuesta de un usuario como resultado del uso anticipado de un producto, sistema o servicio, antes de que este salga al mercado. Para darle al producto un uso anticipado, su diseño debe estar centrado en el usuario, incorporando elementos visuales, textuales y de sonido de tal manera que la experiencia con este permita la mayor interacción posible.
         .row
           .col-auto.d-none.d-lg-flex
             figure
@@ -35,7 +35,7 @@
             .row.justify-content-around.p-4               
               .col-xl-8.mb-2.mb-lg-0    
                 .cardNumber(data-cardNumber="02")                        
-                  p.ps-4.pt-3 Realizar el benchmarking del producto a desarrollar; el cual consiste en compararlo con la competencia para determinar en qué aspectos se puede diferenciar de esta y así poder optimizarlo proporcionándole el valor agregado para los usuarios.        
+                  p.ps-4.pt-3 Realizar el #[em benchmarking] del producto a desarrollar; el cual consiste en compararlo con la competencia para determinar en qué aspectos se puede diferenciar de esta y así poder optimizarlo proporcionándole el valor agregado para los usuarios.        
               .col-auto
                 figure
                   img(src='@/assets/curso/temas/t6/t6_29.svg', alt='').img150.m-auto
@@ -43,7 +43,7 @@
             .row.justify-content-around.p-4               
               .col-xl-8.mb-2.mb-lg-0    
                 .cardNumber(data-cardNumber="03")                        
-                  p.ps-4.pt-3 Comprender cuál es el contexto de uso que le proporcionaran los usuarios al producto y así poder definir el alcance y objetivos que tendrá, los requisitos de diseño y desarrollo necesario para su implementación.       
+                  p.ps-4.pt-3 Comprender cuál es el contexto de uso que le proporcionarán los usuarios al producto y así poder definir el alcance y objetivos que tendrá, los requisitos de diseño y desarrollo necesario para su implementación.       
               .col-auto
                 figure
                   img(src='@/assets/curso/temas/t6/t6_30.svg', alt='').img150.m-auto
@@ -51,7 +51,7 @@
             .row.justify-content-around.p-4               
               .col-xl-8.mb-2.mb-lg-0    
                 .cardNumber(data-cardNumber="04")                        
-                  p.ps-4.pt-3 Realizar el diseño conceptual del producto multimedia, partiendo de las actividades anteriores para establecer correctamente la estructura y funcionalidades que ofrecerá y el valor que aportará en cuanto su uso y accesibilidad.       
+                  p.ps-4.pt-3 Realizar el diseño conceptual del producto multimedia, partiendo de las actividades anteriores para establecer correctamente la estructura y funcionalidades que ofrecerá y el valor que aportará en cuanto a su uso y accesibilidad.       
               .col-auto
                 figure
                   img(src='@/assets/curso/temas/t6/t6_31.svg', alt='').img150.m-auto  
@@ -59,7 +59,7 @@
             .row.justify-content-around.p-4               
               .col-xl-8.mb-2.mb-lg-0    
                 .cardNumber(data-cardNumber="05")                        
-                  p.ps-4.pt-3 Realizar el diseño de la interfaz del producto para determinar cómo lo vería el usuario cuando esté terminado. Para ello se utilizan las técnicas Wireframe y Mockup vistas anteriormente.      
+                  p.ps-4.pt-3 Realizar el diseño de la interfaz del producto para determinar cómo lo vería el usuario cuando esté terminado. Para ello se utilizan las técnicas #[em wireframe] y #[em mockup] vistas anteriormente.      
               .col-auto
                 figure
                   img(src='@/assets/curso/temas/t6/t6_32.svg', alt='').img150.m-auto   
@@ -67,7 +67,7 @@
             .row.justify-content-around.p-4               
               .col-xl-8.mb-2.mb-lg-0    
                 .cardNumber(data-cardNumber="06")                        
-                  p.ps-4.pt-3 Aplicar pruebas de usabilidad del producto con el fin de evaluar el uso que el usuario le dará al producto de acuerdo con el alcance y los objetivos definidas por el cliente.      
+                  p.ps-4.pt-3 Aplicar pruebas de usabilidad del producto con el fin de evaluar el uso que el usuario le dará al producto de acuerdo con el alcance y los objetivos definidos por el cliente.      
               .col-auto
                 figure
                   img(src='@/assets/curso/temas/t6/t6_33.svg', alt='').img150.m-auto             
@@ -208,7 +208,7 @@
       .row.justify-content-center(titulo="Visibilidad del estado del sistema").p-4
         .col-lg-8.mb-4.mb-lg-0         
           p El usuario debe recibir una retroalimentación del estado del producto en cada instante para saber qué pasa cuando interactúa con él, por ejemplo si está guardando, cargando, o si hay algún tipo de error. 
-          p.mb-0 En la imagen anterior se observan los mensajes que visualiza un usuario cuando sube un archivo correctamente #[em SUCCESS!] y puede cerrar el proceso CLOSE o cuando hubo algún problema en esta acción #[em ERROR!] Y debe intentar de nuevo #[em TRY AGAIN]. 
+          p.mb-0 En la imagen anterior se observan los mensajes que visualiza un usuario cuando sube un archivo correctamente #[em Success!] y puede cerrar el proceso CONTINUE o cuando hubo algún problema en esta acción #[em Error!] Y debe intentar de nuevo #[em TRY AGAIN]. 
      
         .col-lg-4.col-12
           figure
@@ -217,7 +217,7 @@
       .row.justify-content-center(titulo="Relación del producto con el mundo real").p-4
         .col-lg-8.mb-4.mb-lg-0          
           p Se debe brindar al usuario toda la información necesaria para que no tenga dudas o cometa errores en la acción que va a realizar.
-          p.mb-0 Por ejemplo cuando un usuario está haciendo una compra tipo crédito en línea, se le debe indicar qué datos debe diligenciar y en donde los encuentra en su tarjeta como se muestra en la imagen, ya que se debe partir de que todos los internautas no son ágiles en el manejo de estos sistemas. 
+          p.mb-0 Por ejemplo cuando un usuario está haciendo una compra tipo crédito en línea, se le debe indicar qué datos debe diligenciar y en dónde los encuentra en su tarjeta como se muestra en la imagen, ya que se debe partir de que todos los internautas no son ágiles en el manejo de estos sistemas. 
      
         .col-lg-4.col-12
           figure
@@ -226,7 +226,7 @@
       .row.justify-content-center(titulo="Libertad al usuario").p-4
         .col-lg-8.mb-4.mb-lg-0          
           p El producto debe permitir que el usuario cancele un proceso que estaba realizando sin finalizarlo, de tal manera que esta acción no represente compromisos o penalizaciones que puedan llegar a afectarlo en cualquier aspecto de su estado emocional o material. 
-          p En la imagen se visualiza como un usuario a abortado la compra en el momento en que estaba digitando el número de la tarjeta de crédito. 
+          p En la imagen se visualiza cómo un usuario ha abortado la compra en el momento en que estaba digitando el número de la tarjeta de crédito. 
           p.mb-0 Esta libertad que le da el producto multimedia permite que el usuario tenga el control y evita que se sienta encasillado en él.
      
         .col-lg-4.col-12
@@ -249,7 +249,7 @@
         .col-lg-8.mb-4.mb-lg-0         
           p Se deben dar instrucciones claras a los usuarios sobre cómo manejar el producto y las acciones que deben realizar para evitar su mal uso y posteriormente el abandono, debido a los errores que puede arrojar.          
 
-          p.mb-0 En la imagen se observa como un sistema le indica al usuario la forma de crear una contraseña para registrarse en el producto.   
+          p.mb-0 En la imagen se observa cómo un sistema le indica al usuario la forma de crear una contraseña para registrarse en el producto.   
      
         .col-lg-4.col-12
           figure
@@ -261,7 +261,7 @@
 
           p En la imagen se visualiza el momento en que se debe realizar el pago de un producto/servicio sin recordarle al cliente los detalles de su compra y exigiendo que este eche mano de su memoria para finalmente tomar la decisión de realizarla.          
 
-          p.mb-0 Este aspecto de no recordación es común en los productos y no es considerado como un error, pero si se mira desde el punto de vista del diseño, incluir este estos detalles no solo hacen más funcional el sistema, sino que puede evitar una incorrecta toma de decisiones al depender solo de la memoria. 
+          p.mb-0 Este aspecto de no recordación es común en los productos y no es considerado como un error, pero si se mira desde el punto de vista del diseño, incluir estos detalles no solo hacen más funcional el sistema, sino que puede evitar una incorrecta toma de decisiones al depender solo de la memoria. 
      
         .col-lg-4.col-12
           figure
@@ -305,9 +305,9 @@
 
       .row.justify-content-center(titulo="Ayuda y documentación").p-4
         .col-lg-8.mb-4.mb-lg-0         
-          p Se deben detectar las dudas más comunes de los usuarios cuando está usando el producto multimedia e incluir la información necesaria para que el mismo pueda encontrar la manera de resolverlas. De esta forma el producto se hace auto gestionable.     
+          p Se deben detectar las dudas más comunes de los usuarios cuando está usando el producto multimedia e incluir la información necesaria para que él mismo pueda encontrar la manera de resolverlas. De esta forma el producto se hace autogestionable.     
 
-          p En la imagen se muestra como la empresa presenta y documenta las ayudas necesarias para que el usuario pueda realizar los procesos y funcionalidades del producto multimedia sin que necesite una ayuda extra.         
+          p En la imagen se muestra cómo la empresa presenta y documenta las ayudas necesarias para que el usuario pueda realizar los procesos y funcionalidades del producto multimedia sin que necesite una ayuda extra.         
 
           p.mb-0 En este caso si hace clic en Mis pedidos encontrará la información para llevar a cabo el seguimiento de su pedido, realice una devolución o vuelva a la tienda para hacer otra compra.
      
@@ -353,7 +353,7 @@
               h4 Operable
               p El producto debe proporcionar facilidad de interacción y navegación a los usuarios a través del mouse o el teclado. La interfaz o pantalla que se le coloque al usuario para acceder al producto multimedia deben permitirle ir al lugar que quiera.
 
-              p.mb-0 En la imagen de referencia el formulario que se presenta esta organizado visualmente de tal forma que a través de la distribución y el texto que se ha utilizado, el usuario sepa que información se coloca primero y cual después. Igualmente si faltó alguna casilla por diligenciar, el mismo sistema indique mediante un sonido y mensaje de alerta que se ha saltado un campo y además no permita avanzar hasta que sea completado. Esta función hace que el producto sea fácilmente operable sin posibilidad de que el usuario se pierda o tenga confusión sobre su uso.
+              p.mb-0 En la imagen de referencia el formulario que se presenta está organizado visualmente de tal forma que a través de la distribución y el texto que se ha utilizado, el usuario sepa qué información se coloca primero y cuál después. Igualmente si faltó alguna casilla por diligenciar, el mismo sistema indique mediante un sonido y mensaje de alerta que se ha saltado un campo y además no permita avanzar hasta que sea completado. Esta función hace que el producto sea fácilmente operable sin posibilidad de que el usuario se pierda o tenga confusión sobre su uso.
           
             .col-lg-3.col-8
               figure
@@ -365,7 +365,7 @@
               h4 Comprensible
               p El contenido del producto y la forma en que el usuario puede interactuar con él debe estar de acuerdo con su capacidad de entendimiento, sin importar el perfil o el nivel de formación que posea. 
 
-              p.mb-0 Una de las acciones que comúnmente realizan los usuarios es la de borrar información personal o de cualquier índole; ésta puede ser representada con una papelera de reciclaje como se muestra en la imagen anterior. El icono indica que la cesta está llena porque se han eliminado datos y el usuario siempre la verá en ese estado hasta que no ejecute la acción de vaciarla, pues aunque el producto no lo exprese, se puede intuir o comprender que para ver la cesta vacía se debe ejecutar esta acción.
+              p.mb-0 Una de las acciones que comúnmente realizan los usuarios es la de borrar información personal o de cualquier índole; esta puede ser representada con una papelera de reciclaje como se muestra en la imagen anterior. El icono indica que la cesta está llena porque se han eliminado datos y el usuario siempre la verá en ese estado hasta que no ejecute la acción de vaciarla, pues aunque el producto no lo exprese, se puede intuir o comprender que para ver la cesta vacía se debe ejecutar esta acción.
           
             .col-lg-3.col-8
               figure
@@ -389,7 +389,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8(data-aos="fade")
-        p.mb-4 Un producto multimedia interactivo es aquel que incorpora diferentes medios que permiten que el usuario entre en contacto con él. Por lo tanto, puede integrar texto, audio, animación, videos o simuladores. Los proyectos que pueden hacer este tipo de integración pueden ser: aplicaciones móviles, programas, páginas #[em web] o videojuegos principalmente. Estos productos pertenecen a un mercado que está en constante evolución e innovación debido a que la tecnología no se estanca, igualmente está dirigidos a públicos objetivos concretos que son activos al momento de interactuar con el producto. 
+        p.mb-4 Un producto multimedia interactivo es aquel que incorpora diferentes medios que permiten que el usuario entre en contacto con él. Por lo tanto, puede integrar texto, audio, animación, videos o simuladores. Los proyectos que pueden hacer este tipo de integración pueden ser: aplicaciones móviles, programas, páginas #[em web] o videojuegos principalmente. Estos productos pertenecen a un mercado que está en constante evolución e innovación debido a que la tecnología no se estanca, igualmente están dirigidos a públicos objetivos concretos que son activos al momento de interactuar con el producto. 
         .row.mb-4
           .col-auto.d-none.d-lg-flex
             figure
@@ -430,7 +430,7 @@
               img(src="@/assets/curso/temas/t6/t6_26.png", alt="alt").img150
           .col
             p Es la capacidad que se le puede conferir al usuario para realizar la configuración del producto multimedia de acuerdo con la necesidad y el uso que le va a proporcionar. El usuario debe poder modificar características y tomar decisiones sobre el producto.
-            p.mb-0 En la imagen se observa como el usuario puede configurar la forma de presentar una temática utilizando la herramienta ofimática de PowerPoint. En este caso el recuadro naranja muestra como este puede tomar el control sobre la forma de pasar las diapositivas en la que debe marcar la opción de repetir el ciclo hasta presionar ESC, mostrar sin narración o sin animación. Este tipo de interacción proporciona más confianza al transferir al usuario el poder de uso del producto de acuerdo con su necesidad. 
+            p.mb-0 En la imagen se observa cómo el usuario puede configurar la forma de presentar una temática utilizando la herramienta ofimática de PowerPoint. En este caso el recuadro naranja muestra cómo este puede tomar el control sobre la forma de pasar las diapositivas en la que debe marcar la opción de repetir el ciclo hasta presionar ESC, mostrar sin narración o sin animación. Este tipo de interacción proporciona más confianza al transferir al usuario el poder de uso del producto de acuerdo con su necesidad. 
 
     .tarjeta.color-secundario.p-3(data-aos="zoom-in")
       .row.justify-content-around.align-items-center

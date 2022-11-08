@@ -133,7 +133,7 @@
           
 
     .cajon.cjn--paleBlue.p-4(data-aos="zoom-in").mb-5
-      p.mb-0 #[strong Por ejemplo, si lo que se quiere es desarrollar un proyecto web para asignar citas médicas virtuales, el mapa de navegación a groso modo podría ser el siguiente:]
+      p.mb-0 #[strong Por ejemplo, si lo que se quiere es desarrollar un proyecto web para asignar citas médicas virtuales, el mapa de navegación a grandes rasgos podría ser el siguiente:]
 
     figure(data-aos="zoom-in").mb-5
       img(src="@/assets/curso/temas/t3/t3_09.svg", alt="alt")
@@ -153,9 +153,9 @@
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
                     h4.mb-1 Análisis de sistemas de navegación de sitios web
-                    p.mb-0 Estimado aprendiz, Para profundizar sobre sistemas de navegación, consulta el siguiente documento:
+                    p.mb-0 Estimado aprendiz, para profundizar sobre sistemas de navegación, consulta el siguiente documento:
                   .col-sm-auto
-                    a.boton.color-acento-botones(:href="obtenerLink('/downloads/6201_trecalde_00451.pdf')" target="_blank")
+                    a.boton.color-acento-botones(:href="obtenerLink('/downloads/27698tfc.pdf')" target="_blank")
                       span.clr--base Descargar
                       i.clr--base.fas.fa-file-download
 

@@ -343,7 +343,7 @@ export default {
     },
     {
       referencia:
-        'Aprendercine. (s.f.). Tipos de plano en cine según el tamaño. ',
+        'Aprendercine. (s.f.). Tipos de plano en cine y fotografía, con ejemplos',
       link: 'https://aprendercine.com/tipos-de-plano-en-cine-segun-el-tamano/',
     },
     {

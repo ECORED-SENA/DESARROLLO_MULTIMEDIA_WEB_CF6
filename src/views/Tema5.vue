@@ -64,7 +64,7 @@
             figure
               img(src="@/assets/curso/temas/t2/t2_24.png", alt="alt")
           .col
-            p.mb-0 #[strong La figura anterior es un #[em mockup] que corresponde a una plantilla genérica], en la cual se puede observar los botones que proporcionan interactividad como #[strong #[em MORE INFO]] para ampliarle la información al usuario o los que aparecen en la parte superior para establecer contacto con el cliente a través de las redes sociales #[strong (Facebook, Twitter, Instagram)] o el correo electrónico #[strong (youremail@email.com)]. Igualmente se observa la funcionalidad de poder cambiar los textos fácilmente de lo que se desea comunicar; por ejemplo, el del #[em DELCIOUS MENU].  
+            p.mb-0 #[strong La figura anterior es un #[em mockup] que corresponde a una plantilla genérica], en la cual se puede observar los botones que proporcionan interactividad como #[strong #[em MORE INFO]] para ampliarle la información al usuario o los que aparecen en la parte superior para establecer contacto con el cliente a través de las redes sociales #[strong (Facebook, Twitter, Instagram)] o el correo electrónico #[strong (youremail@email.com)]. Igualmente se observa la funcionalidad de poder cambiar los textos fácilmente de lo que se desea comunicar; por ejemplo, el del #[em fashion international week].  
 
     h4(data-aos="fade") Ventajas de los #[em mockups]
 
@@ -203,7 +203,7 @@
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
               h4.mb-1 #[em Mockups] gratis: ¿Qué son los #[em mockups], dónde los puedes descargar GRATIS y cómo usarlos?
-              p.mb-0 Estimado aprendiz, a continuación lo invitamos a consultar un video con el fin de profundizar en el proceso de la creación de <em>wireframes</em>.             
+              p.mb-0 Estimado aprendiz, a continuación lo invitamos a consultar un video con el fin de profundizar en el proceso de la creación de <em>mockups</em>.             
             .col-sm-auto
               a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=crw3hO6VX4IPor" target="_blank")
                 span.clr--base ver video

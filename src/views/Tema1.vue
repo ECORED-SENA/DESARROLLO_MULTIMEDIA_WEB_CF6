@@ -105,7 +105,7 @@
         .col-lg-8          
           p En el entorno del diseño se puede definir que la línea es el elemento visual elemental, es una sucesión de puntos conectados el uno del otro generando una trayectoria; están determinadas por su grosor, textura y estilo, de igual forma por su movimiento y dirección. 
           .cajon.cjn--paleBlue.p-4
-            p.mb-0 #[strong Con el uso de las líneas se pueden determinar y enfatizar conceptos separarlos y estructurarlos en una composición gráfica en muchos entornos literarios sirven como guía a una lectura en particular.]      
+            p.mb-0 #[strong Con el uso de las líneas se pueden determinar y enfatizar conceptos, separarlos y estructurarlos en una composición gráfica, en muchos entornos literarios sirven como guía a una lectura en particular.]      
         .col-lg-4.col-8
           figure
             img(src='@/assets/curso/temas/t1/t1_09.svg', alt='')   
@@ -161,7 +161,7 @@
 
       .row(titulo="El color").p-4
         .col-lg-8          
-          p Es la herramienta más relevante de diseño gráfico, de acuerdo a la percepción del ojo humano la cual puede captar, distinguir y dejar una sensación de calidez o rigidez de acuerdo a la cantidad de color que contenga una pieza gráfica; es decir, que tanta luz se refleja en un objeto y que tanta cantidad de color puede reflejar una sola imagen y como se puede distinguir en una composición. 
+          p Es la herramienta más relevante de diseño gráfico, de acuerdo a la percepción del ojo humano la cual puede captar, distinguir y dejar una sensación de calidez o rigidez de acuerdo a la cantidad de color que contenga una pieza gráfica; es decir, qué tanta luz se refleja en un objeto y qué tanta cantidad de color puede reflejar una sola imagen y cómo se puede distinguir en una composición. 
           p Cada color puede tener un significado diferente, una sensación, un concepto o algo personal, que a la percepción humana puede generar algún tipo de emocionalidad y determinación a la hora de crear una pieza gráfica. 
 
         .col-lg-4.col-8
@@ -269,7 +269,7 @@
       .col-lg-8.order-1.order-lg-2(data-aos="fade") 
         p #[span.strong.clr--blue La imagen corporativa es un escenario de posicionamiento y concepto de una marca o empresa en un mercado objetivo, en muchas ocasiones la marca se crea más por el contexto visual que por un eslogan o mensaje; es decir, queda en la retina o mente del público y es recordada por ello.] Es la forma en que se puede generar una imagen positiva de la marca y cómo el público da una interpretación de los productos y servicios presentados por la marca.
         .cajon.cjn--grayBlue.p-4.mb-4.mb-lg-0
-          p.mb-0 #[strong Es muy importante tener conexión entre la entre la imagen corporativa y la naturaleza de la empresa; se recomienda diseñar estrategia de comunicación multicanal,] la cual esté directamente encargada de las necesidades e inquietudes del cliente y por ende su fidelización.
+          p.mb-0 #[strong Es muy importante tener conexión entre la imagen corporativa y la naturaleza de la empresa; se recomienda diseñar estrategia de comunicación multicanal,] la cual esté directamente encargada de las necesidades e inquietudes del cliente y por ende su fidelización.
 
     p.mb-5(data-aos="fade")  #[strong ¿Qué se necesita para crear la imagen corporativa de una empresa, emprendimiento o idea de negocio?:]
 
